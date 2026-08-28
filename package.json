@@ -1,0 +1,15 @@
+{
+  "name": "london-bus-map",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "description": "Interactive map of Mexico City public transport (RTP & concessioned buses, STE trolleybuses, Metrob\u00fas, Metro, Tren Ligero, Cableb\u00fas) \u2014 GTFS + OSM + HMM map matching",
+  "scripts": {
+    "download": "bash pipeline/download.sh",
+    "build": "node --max-old-space-size=8192 pipeline/build.mjs --all --tram all",
+    "report": "node pipeline/report-gaps.mjs",
+    "serve": "node pipeline/serve.mjs 8161",
+    "lines": "node pipeline/lines.mjs",
+    "audit": "node --max-old-space-size=6144 pipeline/audit.mjs"
+  }
+}
