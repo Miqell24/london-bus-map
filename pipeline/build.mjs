@@ -19,6 +19,19 @@ import { buildGraph, railKind } from './lib/graph.mjs';
 import { matchShape, extendToStops } from './lib/hmm.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
+
+// The handful of poles BODS ships ALL-CAPS — vendor slips in an otherwise
+// properly-cased feed, rewritten by exact match. The code-like ones (WDCTGR,
+// PSMWGH, C E M E) and YMCA are left alone: title-casing those is worse.
+const NAME_FIX = {
+  'LOWER MORDEN LANE / MORDEN CEMETRY': 'Lower Morden Lane / Morden Cemetry',
+  'FARM ROAD': 'Farm Road',
+  'FURNESS ROAD (SM4)': 'Furness Road (SM4)',
+  'STAFFORD ROAD': 'Stafford Road',
+  'HYDE PARK CORNER STATION (W1)': 'Hyde Park Corner Station (W1)',
+  'SOMERDEN ROAD': 'Somerden Road',
+  'GREEN WRYTHE LANE': 'Green Wrythe Lane',
+};
 // m — longer jumps between shape points are GTFS data gaps. Inside a real gap
 // the HMM bridges by routing instead of interpolating observations, which would
 // fabricate straight-line detours through side streets.
@@ -524,6 +537,7 @@ async function processMode(cfg) {
       // name across feeds (one label, not two): Radzymin writes "Radzymin,
       // Głowackiego" where ZTM writes "Radzymin Głowackiego"
       if (feed.nameFix) name = feed.nameFix(name);
+      name = NAME_FIX[name] || name;
       const fix = STOP_FIX[feed.tag + ':' + s.stop_id];
       stopsById.set(feed.tag + ':' + s.stop_id, {
         name,
