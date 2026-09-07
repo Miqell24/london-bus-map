@@ -68,7 +68,10 @@ const keyParts = (s) => {
 // trolleybuses are whatever the feed loop painted green (TROLLEYS).
 const NIGHT = /^N\d/;
 const TROLLEYS = new Set();
-const lineRank = (k) => (TROLLEYS.has(k) ? 0
+// …and inside the rail block the trams (T1–T4) come first, the Underground,
+// DLR, Overground and Elizabeth line after them (user, 7.09.2026: "right
+// after the buses") — isRailTrunk is defined below, read at call time
+const lineRank = (k) => (typeof isRailTrunk === 'function' && isRailTrunk(k) ? 10 : 0) + (TROLLEYS.has(k) ? 0
   : NIGHT.test(typeof LBL !== 'undefined' && LBL.has(k) ? LBL.get(k) : k) ? 2 : 1);
 const numSort = (a, b) => {
   const A = keyParts(a), B = keyParts(b);
