@@ -48,6 +48,8 @@ if [ ! -f data/gtfs/routes.txt ]; then
   echo "== GTFS (BODS london) → data/gtfs =="
   curl -fL --retry 3 --max-time 1200 -A "Mozilla/5.0" -o data/bods-london.zip "$BODS"
   unzip -o data/bods-london.zip -d data/gtfs
+  # the two BODS "Tram" routes become the four Tramlink routes (by termini)
+  node pipeline/tramlink.mjs
 fi
 
 # 1b) the Overground + Elizabeth line, synthesized from the TfL API
@@ -100,6 +102,14 @@ if [ ! -f data/osm/rail-tiles/r6.json ]; then
         "[out:json][timeout:1800][maxsize:2000000000];(way($s,$w,$n,$e)[\"railway\"~\"^(subway|light_rail|rail|tram|construction)$\"];way($s,$w,$n,$e)[\"aerialway\"~\"^(gondola|cable_car)$\"];);out geom;" 50
     done
   done
+fi
+
+# 2d) Rail tiles the mirrors never delivered (7.09.2026: none of the six in
+#     an hour) come out of the England extract instead — same JSON shape
+if [ ! -f data/osm/rail-tiles/r1.json ] || [ ! -f data/osm/rail-tiles/r6.json ]; then
+  echo "== rail tiles from Geofabrik england-latest.osm.pbf =="
+  [ -f data/england-latest.osm.pbf ] || curl -fL --retry 5 --retry-delay 15 -C - --max-time 3600     -o data/england-latest.osm.pbf "https://download.geofabrik.de/europe/united-kingdom/england-latest.osm.pbf"
+  python3 pipeline/pbf-rail-tiles.py
 fi
 
 # 3) MapLibre GL (vendored, no CDN at runtime)

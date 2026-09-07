@@ -25,6 +25,7 @@ for i in range(1, 26):
     road_tiles[i] = (S + (N - S) * row / 5, S + (N - S) * (row + 1) / 5,
                      W + (E - W) * col / 5, W + (E - W) * (col + 1) / 5)
 need_r6 = not os.path.exists(os.path.join(ROOT, 'data/osm/rail-tiles/r6.json'))
+os.makedirs(os.path.join(ROOT, 'data/osm/rail-tiles'), exist_ok=True)  # download.sh made it; a bare run must too
 print('brakujące kafle dróg:', sorted(road_tiles), '| r6:', need_r6, flush=True)
 if not road_tiles and not need_r6:
     sys.exit(0)

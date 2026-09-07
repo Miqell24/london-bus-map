@@ -61,9 +61,18 @@ const keyParts = (s) => {
   const m = /^(\D*)(\d*)(.*)$/.exec(s);
   return [m[1], m[2] ? Number(m[2]) : Infinity, m[3]];
 };
+// Line RANK (7.09.2026, user rule for the whole family): trolleybuses first,
+// day lines next, NIGHT lines last — in every list the map prints: the panel,
+// the number rows along the streets, the terminus badge grids. The night
+// rule is this city's own (NIGHT, tested on the printed number); the
+// trolleybuses are whatever the feed loop painted green (TROLLEYS).
+const NIGHT = /^N\d/;
+const TROLLEYS = new Set();
+const lineRank = (k) => (TROLLEYS.has(k) ? 0
+  : NIGHT.test(typeof LBL !== 'undefined' && LBL.has(k) ? LBL.get(k) : k) ? 2 : 1);
 const numSort = (a, b) => {
   const A = keyParts(a), B = keyParts(b);
-  return A[0].localeCompare(B[0]) || (A[1] - B[1]) || A[2].localeCompare(B[2]);
+  return lineRank(a) - lineRank(b) || A[0].localeCompare(B[0]) || (A[1] - B[1]) || A[2].localeCompare(B[2]);
 };
 function round6(v) { return Math.round(v * 1e6) / 1e6; }
 // dark variant for feed-supplied line colors (badge rims / terminus fills)
@@ -150,8 +159,7 @@ const LBL = new Map();
 
 // TfL colour standard: the Underground lines, the DLR, the Elizabeth line,
 // the 2024 Overground names and the cable car each own a colour; the
-// Tramlink stays the family's tram red (colour means the MODE here, and the
-// official Tramlink green is reserved for trolleybuses family-wide).
+// Tramlink is a tram (family red, no trunk treatment — see railKey).
 const LON_COLORS = {
   'Bakerloo': '#B36305', 'Central': '#E32017', 'Circle': '#FFD300',
   'District': '#00782A', 'Hammersmith & City': '#F3A9BB', 'Jubilee': '#A0A5A9',
@@ -160,10 +168,15 @@ const LON_COLORS = {
   'DLR': '#00A4A7', 'Elizabeth line': '#6950A1',
   'Lioness': '#FAA61A', 'Mildmay': '#0077AD', 'Suffragette': '#5BBD72',
   'Windrush': '#D22730', 'Weaver': '#893B67', 'Liberty': '#606667',
-  'Cable Car': '#DC241F', 'Tram': '#d6212b',
+  'Cable Car': '#DC241F',
 };
-const railKey = (sn) => {
+// The Tramlink is a TRAM (user, 7.09.2026): four routes, 1–4, in the
+// family's red and without the trunk ribbon — pipeline/tramlink.mjs splits
+// the two "Tram" routes BODS publishes into them by their termini. The keys
+// carry a T (London's buses 1–4 exist too) and print the bare number.
+const railKey = (sn, r) => {
   const s0 = (sn || '').trim();
+  if (r && (r.route_type || '').trim() === '0' && /^\d$/.test(s0)) { LBL.set('T' + s0, s0); return 'T' + s0; }
   // the KEY itself is shortened here (nothing else references it), so the
   // bare-numbers table stays empty in London
   return s0 === 'London Cable Car' ? 'Cable Car' : s0;
@@ -205,8 +218,10 @@ if (tramAll || tramLines.length) MODES.push({
   color: '#d6212b', colorDark: '#7c1116',
   all: tramAll, lines: tramAll ? [] : tramLines,
   feeds: [
+    // noFeedColors: the Tramlink's own green must not paint T1–T4 (the
+    // Underground and the DLR take theirs from LON_COLORS via lineColor)
     { tag: 'bods', dir: 'data/gtfs', routeTypes: ['0', '1', '2', '6'],
-      mapKey: railKey, lineColor: (k) => LON_COLORS[k], allVariants: true,
+      mapKey: railKey, lineColor: (k) => LON_COLORS[k], allVariants: true, noFeedColors: true,
       nameFix: (n) => n.replace(/ (Underground|Rail|DLR) Station$/, '').replace(/ \(London\)$/, '') },
     { tag: 'tflr', dir: 'data/gtfs-rail', routeTypes: ['2'],
       mapKey: railKey, lineColor: (k) => LON_COLORS[k], allVariants: true },
@@ -327,14 +342,14 @@ async function processMode(cfg) {
       if (!key) continue;
       routeToLine.set(r.route_id, key);
       if ((feed.trolley && feed.trolley(r)) || r.route_type === '11') {
-        cfg.trolleySet.add(key);
+        cfg.trolleySet.add(key); TROLLEYS.add(key);
         cfg.lineColors[key] = TROLLEY_GREEN;
         cfg.lineColorsDark[key] = TROLLEY_DARK;
       } else if (feed.mline && feed.mline(r)) {
         cfg.mlineSet.add(key);
         cfg.lineColors[key] = MLINE_YELLOW;
         cfg.lineColorsDark[key] = MLINE_DARK;
-      } else if (['0', '1', '2', '6'].includes(r.route_type) && /^[0-9A-F]{6}$/i.test(r.route_color || '')) {
+      } else if (!feed.noFeedColors && ['0', '1', '2', '6'].includes(r.route_type) && /^[0-9A-F]{6}$/i.test(r.route_color || '')) {
         // the feed ships the official line colours — metro M1 blue, M2 red,
         // SKM S1 coral, S2 blue, S3 amber, S4 green, S40 light green
         cfg.lineColors[key] = '#' + r.route_color.toUpperCase();
@@ -1868,6 +1883,6 @@ writeFileSync(join(outDir, 'meta.json'), JSON.stringify({
   modes: MODES.map((m) => ({ mode: m.mode, label: m.label, color: m.color })),
   // the chips keep `line` as their value (selection matches keys) and print
   // `label` where the city's number differs from the pipeline's key
-  lines: metaLines.map((l) => (LBL.has(l.line) ? { ...l, label: LBL.get(l.line) } : l)),
+  lines: metaLines.map((l) => ({ ...(LBL.has(l.line) ? { ...l, label: LBL.get(l.line) } : l), rank: lineRank(l.line) })),
 }, null, 2));
 log(`Wrote data/out/{route,streets,labels,street-names,stops,badges,gtfs-shape}.geojson + meta.json`);
