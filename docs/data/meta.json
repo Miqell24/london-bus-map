@@ -33850,3285 +33850,6 @@
       "rank": 1
     },
     {
-      "line": "N1",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 36,
-          "stops": 91,
-          "lengthKm": 28.09,
-          "stats": {
-            "observations": 91,
-            "matched": 91,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.036200493364617,
-            "roundaboutSegs": 187,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 40,
-          "stops": 84,
-          "lengthKm": 26.65,
-          "stats": {
-            "observations": 84,
-            "matched": 84,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.658040639178229,
-            "roundaboutSegs": 140,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N2",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Marylebone, Hayes Place",
-          "variants": 1,
-          "tripCount": 50,
-          "stops": 51,
-          "lengthKm": 15.88,
-          "stats": {
-            "observations": 51,
-            "matched": 51,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.35130742656656,
-            "roundaboutSegs": 17,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Marylebone, Hayes Place",
-          "variants": 1,
-          "tripCount": 52,
-          "stops": 50,
-          "lengthKm": 15.5,
-          "stats": {
-            "observations": 50,
-            "matched": 50,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 4.942685759633086,
-            "roundaboutSegs": 19,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N3",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 108,
-          "stops": 88,
-          "lengthKm": 25.65,
-          "stats": {
-            "observations": 88,
-            "matched": 88,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.161819004594997,
-            "roundaboutSegs": 48,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 108,
-          "stops": 84,
-          "lengthKm": 25.42,
-          "stats": {
-            "observations": 84,
-            "matched": 84,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.993478997974169,
-            "roundaboutSegs": 72,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N5",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 96,
-          "stops": 66,
-          "lengthKm": 22.05,
-          "stats": {
-            "observations": 66,
-            "matched": 66,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.5462918596739135,
-            "roundaboutSegs": 14,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Edgware Station",
-          "variants": 1,
-          "tripCount": 92,
-          "stops": 61,
-          "lengthKm": 21.75,
-          "stats": {
-            "observations": 61,
-            "matched": 61,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.61974685624834,
-            "roundaboutSegs": 5,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N7",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Oxford Circus",
-          "variants": 1,
-          "tripCount": 44,
-          "stops": 74,
-          "lengthKm": 24.51,
-          "stats": {
-            "observations": 74,
-            "matched": 74,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.024251605772814,
-            "roundaboutSegs": 97,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Oxford Circus",
-          "variants": 1,
-          "tripCount": 44,
-          "stops": 76,
-          "lengthKm": 24.73,
-          "stats": {
-            "observations": 76,
-            "matched": 76,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.441964971107627,
-            "roundaboutSegs": 103,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N8",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Oxford Circus",
-          "variants": 1,
-          "tripCount": 101,
-          "stops": 84,
-          "lengthKm": 26.72,
-          "stats": {
-            "observations": 84,
-            "matched": 84,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.861474859909133,
-            "roundaboutSegs": 56,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Oxford Circus",
-          "variants": 1,
-          "tripCount": 100,
-          "stops": 77,
-          "lengthKm": 26.33,
-          "stats": {
-            "observations": 77,
-            "matched": 77,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.073681981312099,
-            "roundaboutSegs": 59,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N9",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Heathrow Airport, Terminal 5",
-          "variants": 1,
-          "tripCount": 57,
-          "stops": 80,
-          "lengthKm": 31.77,
-          "stats": {
-            "observations": 80,
-            "matched": 80,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.225096333829126,
-            "roundaboutSegs": 94,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Heathrow Airport, Terminal 5",
-          "variants": 1,
-          "tripCount": 55,
-          "stops": 86,
-          "lengthKm": 33.3,
-          "stats": {
-            "observations": 86,
-            "matched": 86,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.951030215959283,
-            "roundaboutSegs": 77,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N11",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Ealing Broadway",
-          "variants": 1,
-          "tripCount": 36,
-          "stops": 72,
-          "lengthKm": 21.31,
-          "stats": {
-            "observations": 72,
-            "matched": 72,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.4571403739222655,
-            "roundaboutSegs": 24,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Ealing Broadway",
-          "variants": 1,
-          "tripCount": 36,
-          "stops": 66,
-          "lengthKm": 21.48,
-          "stats": {
-            "observations": 66,
-            "matched": 66,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.083213712728894,
-            "roundaboutSegs": 32,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N15",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 118,
-          "stops": 93,
-          "lengthKm": 29.83,
-          "stats": {
-            "observations": 93,
-            "matched": 93,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.695727097802025,
-            "roundaboutSegs": 66,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 136,
-          "stops": 90,
-          "lengthKm": 29.41,
-          "stats": {
-            "observations": 90,
-            "matched": 90,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.202886121982946,
-            "roundaboutSegs": 56,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N18",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 140,
-          "stops": 71,
-          "lengthKm": 30.58,
-          "stats": {
-            "observations": 71,
-            "matched": 71,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.4197725097673475,
-            "roundaboutSegs": 122,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 132,
-          "stops": 69,
-          "lengthKm": 23.64,
-          "stats": {
-            "observations": 69,
-            "matched": 69,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.521958614115329,
-            "roundaboutSegs": 55,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N19",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 80,
-          "stops": 52,
-          "lengthKm": 16,
-          "stats": {
-            "observations": 52,
-            "matched": 52,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.199360953538469,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 84,
-          "stops": 55,
-          "lengthKm": 15.52,
-          "stats": {
-            "observations": 55,
-            "matched": 55,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.700584555839061,
-            "roundaboutSegs": 10,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N20",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 44,
-          "stops": 74,
-          "lengthKm": 22.11,
-          "stats": {
-            "observations": 74,
-            "matched": 74,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 4.715339838258311,
-            "roundaboutSegs": 7,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 49,
-          "stops": 73,
-          "lengthKm": 22.16,
-          "stats": {
-            "observations": 73,
-            "matched": 73,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.283100175425652,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N21",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 42,
-          "stops": 87,
-          "lengthKm": 26.79,
-          "stats": {
-            "observations": 87,
-            "matched": 87,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.823096726404561,
-            "roundaboutSegs": 68,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 44,
-          "stops": 84,
-          "lengthKm": 26.84,
-          "stats": {
-            "observations": 84,
-            "matched": 84,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.130605864923684,
-            "roundaboutSegs": 74,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N22",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Oxford Circus",
-          "variants": 1,
-          "tripCount": 52,
-          "stops": 64,
-          "lengthKm": 21.35,
-          "stats": {
-            "observations": 64,
-            "matched": 64,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.5868957735482265,
-            "roundaboutSegs": 33,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Oxford Circus",
-          "variants": 1,
-          "tripCount": 44,
-          "stops": 65,
-          "lengthKm": 21.46,
-          "stats": {
-            "observations": 65,
-            "matched": 65,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.048280788339742,
-            "roundaboutSegs": 11,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N25",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 104,
-          "stops": 59,
-          "lengthKm": 17.46,
-          "stats": {
-            "observations": 59,
-            "matched": 59,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.059545989979561,
-            "roundaboutSegs": 8,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 126,
-          "stops": 59,
-          "lengthKm": 18.03,
-          "stats": {
-            "observations": 59,
-            "matched": 59,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.095011523418755,
-            "roundaboutSegs": 13,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N26",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 44,
-          "stops": 83,
-          "lengthKm": 25.82,
-          "stats": {
-            "observations": 83,
-            "matched": 83,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.225920575204104,
-            "roundaboutSegs": 56,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 48,
-          "stops": 86,
-          "lengthKm": 25.6,
-          "stats": {
-            "observations": 86,
-            "matched": 86,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.689844961975473,
-            "roundaboutSegs": 41,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N27",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 40,
-          "stops": 35,
-          "lengthKm": 11.12,
-          "stats": {
-            "observations": 35,
-            "matched": 35,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.740178135413739,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 36,
-          "stops": 40,
-          "lengthKm": 11.99,
-          "stats": {
-            "observations": 40,
-            "matched": 40,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.4870875970226,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N28",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 32,
-          "stops": 59,
-          "lengthKm": 18.13,
-          "stats": {
-            "observations": 59,
-            "matched": 59,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.507998369209381,
-            "roundaboutSegs": 37,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 32,
-          "stops": 58,
-          "lengthKm": 16.83,
-          "stats": {
-            "observations": 58,
-            "matched": 58,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.003864451749622,
-            "roundaboutSegs": 13,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N29",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 124,
-          "stops": 71,
-          "lengthKm": 19.94,
-          "stats": {
-            "observations": 71,
-            "matched": 71,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.996350505779032,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 116,
-          "stops": 69,
-          "lengthKm": 19.63,
-          "stats": {
-            "observations": 69,
-            "matched": 69,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.920696189129442,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N30",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Heathrow Central Bus Station",
-          "variants": 1,
-          "tripCount": 11,
-          "stops": 35,
-          "lengthKm": 26.36,
-          "stats": {
-            "observations": 35,
-            "matched": 35,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.601669931682081,
-            "roundaboutSegs": 53,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "King Street (W3)",
-          "variants": 1,
-          "tripCount": 8,
-          "stops": 38,
-          "lengthKm": 25.34,
-          "stats": {
-            "observations": 38,
-            "matched": 38,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.219288061482184,
-            "roundaboutSegs": 69,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N31",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 32,
-          "stops": 57,
-          "lengthKm": 17.4,
-          "stats": {
-            "observations": 57,
-            "matched": 57,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.244154081303573,
-            "roundaboutSegs": 13,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 36,
-          "stops": 61,
-          "lengthKm": 16.41,
-          "stats": {
-            "observations": 61,
-            "matched": 61,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.060273502385464,
-            "roundaboutSegs": 12,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N32",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Oxford Circus",
-          "variants": 1,
-          "tripCount": 40,
-          "stops": 56,
-          "lengthKm": 16.97,
-          "stats": {
-            "observations": 56,
-            "matched": 56,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.423603012706228,
-            "roundaboutSegs": 28,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Oxford Circus",
-          "variants": 1,
-          "tripCount": 40,
-          "stops": 57,
-          "lengthKm": 16.88,
-          "stats": {
-            "observations": 57,
-            "matched": 57,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.716253605375288,
-            "roundaboutSegs": 26,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N33",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 36,
-          "stops": 50,
-          "lengthKm": 16.61,
-          "stats": {
-            "observations": 50,
-            "matched": 50,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.792506536772255,
-            "roundaboutSegs": 13,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 36,
-          "stops": 52,
-          "lengthKm": 17.14,
-          "stats": {
-            "observations": 52,
-            "matched": 52,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.244660143839846,
-            "roundaboutSegs": 25,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N38",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 68,
-          "stops": 57,
-          "lengthKm": 17.36,
-          "stats": {
-            "observations": 57,
-            "matched": 57,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 4.917043899223666,
-            "roundaboutSegs": 13,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 74,
-          "stops": 59,
-          "lengthKm": 17.45,
-          "stats": {
-            "observations": 59,
-            "matched": 59,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.621877061970389,
-            "roundaboutSegs": 46,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N40",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 16,
-          "lengthKm": 43.29,
-          "stats": {
-            "observations": 16,
-            "matched": 16,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.096367832648878,
-            "roundaboutSegs": 134,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N41",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 36,
-          "stops": 57,
-          "lengthKm": 16.41,
-          "stats": {
-            "observations": 57,
-            "matched": 57,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.655879180722791,
-            "roundaboutSegs": 9,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 36,
-          "stops": 57,
-          "lengthKm": 16.57,
-          "stats": {
-            "observations": 57,
-            "matched": 57,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.878408051609014,
-            "roundaboutSegs": 9,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N44",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Sutton Station",
-          "variants": 1,
-          "tripCount": 40,
-          "stops": 76,
-          "lengthKm": 23.2,
-          "stats": {
-            "observations": 76,
-            "matched": 76,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.601438683757348,
-            "roundaboutSegs": 56,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Sutton Station",
-          "variants": 1,
-          "tripCount": 36,
-          "stops": 80,
-          "lengthKm": 23.43,
-          "stats": {
-            "observations": 80,
-            "matched": 80,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.6889209865714445,
-            "roundaboutSegs": 73,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N53",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 52,
-          "stops": 59,
-          "lengthKm": 19.92,
-          "stats": {
-            "observations": 59,
-            "matched": 59,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.462147384974449,
-            "roundaboutSegs": 22,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 52,
-          "stops": 52,
-          "lengthKm": 19.03,
-          "stats": {
-            "observations": 52,
-            "matched": 52,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.799849622764938,
-            "roundaboutSegs": 13,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N55",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Oxford Circus",
-          "variants": 1,
-          "tripCount": 42,
-          "stops": 78,
-          "lengthKm": 23.13,
-          "stats": {
-            "observations": 78,
-            "matched": 78,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.676625593860845,
-            "roundaboutSegs": 22,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Oxford Circus",
-          "variants": 1,
-          "tripCount": 34,
-          "stops": 74,
-          "lengthKm": 22.54,
-          "stats": {
-            "observations": 74,
-            "matched": 74,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.301853312055165,
-            "roundaboutSegs": 54,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N63",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 56,
-          "stops": 54,
-          "lengthKm": 15.74,
-          "stats": {
-            "observations": 54,
-            "matched": 54,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.375306819004973,
-            "roundaboutSegs": 12,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 54,
-          "stops": 55,
-          "lengthKm": 16.78,
-          "stats": {
-            "observations": 55,
-            "matched": 55,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 4.905058086704598,
-            "roundaboutSegs": 12,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N65",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Ealing Broadway Station",
-          "variants": 1,
-          "tripCount": 27,
-          "stops": 76,
-          "lengthKm": 24.17,
-          "stats": {
-            "observations": 76,
-            "matched": 76,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.080180144153465,
-            "roundaboutSegs": 70,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Ealing Broadway Station",
-          "variants": 1,
-          "tripCount": 27,
-          "stops": 76,
-          "lengthKm": 24.33,
-          "stats": {
-            "observations": 76,
-            "matched": 76,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.695417860707103,
-            "roundaboutSegs": 58,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N68",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Tottenham Court Road Station",
-          "variants": 1,
-          "tripCount": 44,
-          "stops": 94,
-          "lengthKm": 29.57,
-          "stats": {
-            "observations": 94,
-            "matched": 94,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.862434720903684,
-            "roundaboutSegs": 22,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Tottenham Court Road Station",
-          "variants": 1,
-          "tripCount": 40,
-          "stops": 99,
-          "lengthKm": 30.66,
-          "stats": {
-            "observations": 99,
-            "matched": 99,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 4.899138920540495,
-            "roundaboutSegs": 31,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N72",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Roehampton, Bessborough Road",
-          "variants": 1,
-          "tripCount": 36,
-          "stops": 47,
-          "lengthKm": 14.95,
-          "stats": {
-            "observations": 47,
-            "matched": 47,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.820796673252931,
-            "roundaboutSegs": 12,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Roehampton, Bessborough Road",
-          "variants": 1,
-          "tripCount": 36,
-          "stops": 48,
-          "lengthKm": 15.79,
-          "stats": {
-            "observations": 48,
-            "matched": 48,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.565561332790207,
-            "roundaboutSegs": 6,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N73",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 68,
-          "stops": 56,
-          "lengthKm": 17.12,
-          "stats": {
-            "observations": 56,
-            "matched": 56,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.345687518914094,
-            "roundaboutSegs": 6,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 60,
-          "stops": 60,
-          "lengthKm": 17.71,
-          "stats": {
-            "observations": 60,
-            "matched": 60,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.831049558014687,
-            "roundaboutSegs": 18,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N74",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Baker Street Station",
-          "variants": 1,
-          "tripCount": 40,
-          "stops": 51,
-          "lengthKm": 16.72,
-          "stats": {
-            "observations": 51,
-            "matched": 51,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.642468630377305,
-            "roundaboutSegs": 10,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Baker Street Station",
-          "variants": 1,
-          "tripCount": 45,
-          "stops": 52,
-          "lengthKm": 16.75,
-          "stats": {
-            "observations": 52,
-            "matched": 52,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.057545086575412,
-            "roundaboutSegs": 45,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N83",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Ealing Hospital",
-          "variants": 1,
-          "tripCount": 40,
-          "stops": 60,
-          "lengthKm": 20.17,
-          "stats": {
-            "observations": 60,
-            "matched": 60,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.698930291464502,
-            "roundaboutSegs": 58,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Golders Green Station",
-          "variants": 1,
-          "tripCount": 40,
-          "stops": 59,
-          "lengthKm": 20.25,
-          "stats": {
-            "observations": 59,
-            "matched": 59,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.631047858417685,
-            "roundaboutSegs": 53,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N86",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 46,
-          "stops": 73,
-          "lengthKm": 23.7,
-          "stats": {
-            "observations": 73,
-            "matched": 73,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.916270222001362,
-            "roundaboutSegs": 75,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Stratford Bus Station",
-          "variants": 1,
-          "tripCount": 46,
-          "stops": 71,
-          "lengthKm": 23.08,
-          "stats": {
-            "observations": 71,
-            "matched": 71,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.28112233416948,
-            "roundaboutSegs": 69,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N87",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Aldwych",
-          "variants": 1,
-          "tripCount": 80,
-          "stops": 77,
-          "lengthKm": 25.69,
-          "stats": {
-            "observations": 77,
-            "matched": 77,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.100793263051695,
-            "roundaboutSegs": 66,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Aldwych",
-          "variants": 1,
-          "tripCount": 80,
-          "stops": 78,
-          "lengthKm": 24.55,
-          "stats": {
-            "observations": 78,
-            "matched": 78,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.401409577788703,
-            "roundaboutSegs": 43,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N89",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 44,
-          "stops": 104,
-          "lengthKm": 34.03,
-          "stats": {
-            "observations": 104,
-            "matched": 104,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.874596713151304,
-            "roundaboutSegs": 21,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 40,
-          "stops": 107,
-          "lengthKm": 34.19,
-          "stats": {
-            "observations": 107,
-            "matched": 107,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.81812166382354,
-            "roundaboutSegs": 19,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N91",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 51,
-          "stops": 71,
-          "lengthKm": 23.21,
-          "stats": {
-            "observations": 71,
-            "matched": 71,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.001127180063173,
-            "roundaboutSegs": 50,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 48,
-          "stops": 71,
-          "lengthKm": 23.66,
-          "stats": {
-            "observations": 71,
-            "matched": 71,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.39957150884059,
-            "roundaboutSegs": 61,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N97",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 55,
-          "stops": 31,
-          "lengthKm": 9.97,
-          "stats": {
-            "observations": 31,
-            "matched": 31,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.145207956734637,
-            "roundaboutSegs": 28,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 55,
-          "stops": 32,
-          "lengthKm": 9.7,
-          "stats": {
-            "observations": 32,
-            "matched": 32,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.392829444916198,
-            "roundaboutSegs": 12,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N98",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Stanmore Station",
-          "variants": 1,
-          "tripCount": 88,
-          "stops": 64,
-          "lengthKm": 22.05,
-          "stats": {
-            "observations": 64,
-            "matched": 64,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.882874571877057,
-            "roundaboutSegs": 70,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Stanmore Station",
-          "variants": 1,
-          "tripCount": 96,
-          "stops": 66,
-          "lengthKm": 22.13,
-          "stats": {
-            "observations": 66,
-            "matched": 66,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.353553907413023,
-            "roundaboutSegs": 64,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N109",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Oxford Circus",
-          "variants": 1,
-          "tripCount": 42,
-          "stops": 57,
-          "lengthKm": 18.3,
-          "stats": {
-            "observations": 57,
-            "matched": 57,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 11.242730613995075,
-            "roundaboutSegs": 22,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Oxford Circus",
-          "variants": 1,
-          "tripCount": 52,
-          "stops": 62,
-          "lengthKm": 18.61,
-          "stats": {
-            "observations": 62,
-            "matched": 62,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.976326227839132,
-            "roundaboutSegs": 21,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N113",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 32,
-          "stops": 61,
-          "lengthKm": 20.31,
-          "stats": {
-            "observations": 61,
-            "matched": 61,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 4.06617302300142,
-            "roundaboutSegs": 59,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 32,
-          "stops": 57,
-          "lengthKm": 19.77,
-          "stats": {
-            "observations": 57,
-            "matched": 57,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.700648858841093,
-            "roundaboutSegs": 26,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N118",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 140,
-          "stops": 80,
-          "lengthKm": 33.61,
-          "stats": {
-            "observations": 80,
-            "matched": 80,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.66786826927213,
-            "roundaboutSegs": 142,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 124,
-          "stops": 73,
-          "lengthKm": 26.73,
-          "stats": {
-            "observations": 73,
-            "matched": 73,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.400049515166376,
-            "roundaboutSegs": 76,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N133",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 32,
-          "stops": 65,
-          "lengthKm": 20.38,
-          "stats": {
-            "observations": 65,
-            "matched": 65,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.806838034172868,
-            "roundaboutSegs": 25,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 40,
-          "stops": 64,
-          "lengthKm": 19.94,
-          "stats": {
-            "observations": 64,
-            "matched": 64,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.6509974302879975,
-            "roundaboutSegs": 31,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N136",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Chislehurst, War Memorial",
-          "variants": 1,
-          "tripCount": 36,
-          "stops": 93,
-          "lengthKm": 27.57,
-          "stats": {
-            "observations": 93,
-            "matched": 93,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.844273481379506,
-            "roundaboutSegs": 32,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Chislehurst, War Memorial",
-          "variants": 1,
-          "tripCount": 36,
-          "stops": 92,
-          "lengthKm": 27.37,
-          "stats": {
-            "observations": 92,
-            "matched": 92,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.716566299547709,
-            "roundaboutSegs": 18,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N137",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Oxford Circus",
-          "variants": 1,
-          "tripCount": 60,
-          "stops": 59,
-          "lengthKm": 17.8,
-          "stats": {
-            "observations": 59,
-            "matched": 59,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.594236771346685,
-            "roundaboutSegs": 19,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Oxford Circus",
-          "variants": 1,
-          "tripCount": 60,
-          "stops": 56,
-          "lengthKm": 17.62,
-          "stats": {
-            "observations": 56,
-            "matched": 56,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 4.661402328352938,
-            "roundaboutSegs": 50,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N140",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 52,
-          "stops": 59,
-          "lengthKm": 21.71,
-          "stats": {
-            "observations": 59,
-            "matched": 59,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.397730364304225,
-            "roundaboutSegs": 110,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 52,
-          "stops": 52,
-          "lengthKm": 20.46,
-          "stats": {
-            "observations": 52,
-            "matched": 52,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.982217713417982,
-            "roundaboutSegs": 70,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N155",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Aldwych",
-          "variants": 1,
-          "tripCount": 64,
-          "stops": 53,
-          "lengthKm": 16.65,
-          "stats": {
-            "observations": 53,
-            "matched": 53,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.499223334545311,
-            "roundaboutSegs": 22,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Morden Station",
-          "variants": 1,
-          "tripCount": 68,
-          "stops": 56,
-          "lengthKm": 17.01,
-          "stats": {
-            "observations": 56,
-            "matched": 56,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.2865707501711094,
-            "roundaboutSegs": 18,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N171",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Tottenham Court Road Station",
-          "variants": 1,
-          "tripCount": 32,
-          "stops": 63,
-          "lengthKm": 18.74,
-          "stats": {
-            "observations": 63,
-            "matched": 63,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.578211070915098,
-            "roundaboutSegs": 3,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Tottenham Court Road Station",
-          "variants": 1,
-          "tripCount": 40,
-          "stops": 59,
-          "lengthKm": 19.2,
-          "stats": {
-            "observations": 59,
-            "matched": 59,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.6241297872179254,
-            "roundaboutSegs": 7,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N199",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "St Mary Cray Station",
-          "variants": 1,
-          "tripCount": 36,
-          "stops": 113,
-          "lengthKm": 34.79,
-          "stats": {
-            "observations": 113,
-            "matched": 113,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.559936950129175,
-            "roundaboutSegs": 25,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 35,
-          "stops": 110,
-          "lengthKm": 34.52,
-          "stats": {
-            "observations": 110,
-            "matched": 110,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.786868110408512,
-            "roundaboutSegs": 23,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N205",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Leyton, Downsell Road",
-          "variants": 1,
-          "tripCount": 50,
-          "stops": 54,
-          "lengthKm": 17.77,
-          "stats": {
-            "observations": 54,
-            "matched": 54,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.926967825693299,
-            "roundaboutSegs": 21,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Leyton, Downsell Road",
-          "variants": 1,
-          "tripCount": 44,
-          "stops": 58,
-          "lengthKm": 18.13,
-          "stats": {
-            "observations": 58,
-            "matched": 58,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.445641345057521,
-            "roundaboutSegs": 12,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N207",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 88,
-          "stops": 88,
-          "lengthKm": 27.82,
-          "stats": {
-            "observations": 88,
-            "matched": 88,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.411481184763979,
-            "roundaboutSegs": 67,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 110,
-          "stops": 93,
-          "lengthKm": 28.18,
-          "stats": {
-            "observations": 93,
-            "matched": 93,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.678381171820512,
-            "roundaboutSegs": 81,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N242",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Tottenham Court Road",
-          "variants": 1,
-          "tripCount": 40,
-          "stops": 45,
-          "lengthKm": 12.41,
-          "stats": {
-            "observations": 45,
-            "matched": 45,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.164570385891329,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Homerton Hospital",
-          "variants": 1,
-          "tripCount": 44,
-          "stops": 46,
-          "lengthKm": 12.48,
-          "stats": {
-            "observations": 46,
-            "matched": 46,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.408287844979435,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N250",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 72,
-          "stops": 46,
-          "lengthKm": 13.14,
-          "stats": {
-            "observations": 46,
-            "matched": 46,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.965616752600301,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 72,
-          "stops": 45,
-          "lengthKm": 13.01,
-          "stats": {
-            "observations": 45,
-            "matched": 45,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 10.55298138770714,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N253",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Tottenham Court Road Station",
-          "variants": 1,
-          "tripCount": 52,
-          "stops": 67,
-          "lengthKm": 18.7,
-          "stats": {
-            "observations": 67,
-            "matched": 67,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.862612745740575,
-            "roundaboutSegs": 13,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Tottenham Court Road Station",
-          "variants": 1,
-          "tripCount": 50,
-          "stops": 64,
-          "lengthKm": 18.45,
-          "stats": {
-            "observations": 64,
-            "matched": 64,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.809142231182951,
-            "roundaboutSegs": 15,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N263",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Moorgate, Finsbury Square",
-          "variants": 1,
-          "tripCount": 48,
-          "stops": 48,
-          "lengthKm": 13.26,
-          "stats": {
-            "observations": 48,
-            "matched": 48,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.46554092739119,
-            "roundaboutSegs": 6,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Moorgate, Finsbury Square",
-          "variants": 1,
-          "tripCount": 48,
-          "stops": 47,
-          "lengthKm": 13.29,
-          "stats": {
-            "observations": 47,
-            "matched": 47,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.801418806502741,
-            "roundaboutSegs": 9,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N266",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Brent Cross",
-          "variants": 1,
-          "tripCount": 44,
-          "stops": 58,
-          "lengthKm": 16.75,
-          "stats": {
-            "observations": 58,
-            "matched": 58,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.200393265538835,
-            "roundaboutSegs": 44,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Brent Cross",
-          "variants": 1,
-          "tripCount": 40,
-          "stops": 60,
-          "lengthKm": 17.22,
-          "stats": {
-            "observations": 60,
-            "matched": 60,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.406264365323184,
-            "roundaboutSegs": 22,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N277",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Crossharbour, Asda",
-          "variants": 1,
-          "tripCount": 48,
-          "stops": 57,
-          "lengthKm": 16.07,
-          "stats": {
-            "observations": 57,
-            "matched": 57,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.139751377995571,
-            "roundaboutSegs": 20,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Crossharbour, Asda",
-          "variants": 1,
-          "tripCount": 36,
-          "stops": 59,
-          "lengthKm": 16,
-          "stats": {
-            "observations": 59,
-            "matched": 59,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.613546493468204,
-            "roundaboutSegs": 42,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N279",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 180,
-          "stops": 75,
-          "lengthKm": 23.53,
-          "stats": {
-            "observations": 75,
-            "matched": 75,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.715376300893924,
-            "roundaboutSegs": 25,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Waltham Cross, Bus Station",
-          "variants": 1,
-          "tripCount": 192,
-          "stops": 80,
-          "lengthKm": 23.39,
-          "stats": {
-            "observations": 80,
-            "matched": 80,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 8.530895405605829,
-            "roundaboutSegs": 27,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N343",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 40,
-          "stops": 49,
-          "lengthKm": 14.89,
-          "stats": {
-            "observations": 49,
-            "matched": 49,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.240754253989757,
-            "roundaboutSegs": 16,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 40,
-          "stops": 51,
-          "lengthKm": 15.07,
-          "stats": {
-            "observations": 51,
-            "matched": 51,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.379250878211691,
-            "roundaboutSegs": 43,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N381",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 36,
-          "stops": 55,
-          "lengthKm": 15.31,
-          "stats": {
-            "observations": 55,
-            "matched": 55,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.8272597387352825,
-            "roundaboutSegs": 37,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trafalgar Square",
-          "variants": 1,
-          "tripCount": 36,
-          "stops": 56,
-          "lengthKm": 15.79,
-          "stats": {
-            "observations": 56,
-            "matched": 56,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.458865114370556,
-            "roundaboutSegs": 23,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N472",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 40,
-          "stops": 39,
-          "lengthKm": 15.17,
-          "stats": {
-            "observations": 39,
-            "matched": 39,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.716356260959057,
-            "roundaboutSegs": 167,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 40,
-          "stops": 37,
-          "lengthKm": 14.97,
-          "stats": {
-            "observations": 37,
-            "matched": 37,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.354974476814196,
-            "roundaboutSegs": 120,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N550",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 44,
-          "stops": 59,
-          "lengthKm": 17.97,
-          "stats": {
-            "observations": 59,
-            "matched": 59,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.991086604115588,
-            "roundaboutSegs": 42,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 52,
-          "stops": 59,
-          "lengthKm": 17.39,
-          "stats": {
-            "observations": 59,
-            "matched": 59,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.127000894454144,
-            "roundaboutSegs": 65,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N551",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Gallions Reach, Shopping Park",
-          "variants": 1,
-          "tripCount": 48,
-          "stops": 64,
-          "lengthKm": 20.1,
-          "stats": {
-            "observations": 64,
-            "matched": 64,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 6.969902169995155,
-            "roundaboutSegs": 80,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Gallions Reach, Shopping Park",
-          "variants": 1,
-          "tripCount": 56,
-          "stops": 62,
-          "lengthKm": 20.09,
-          "stats": {
-            "observations": 62,
-            "matched": 62,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 7.319748125480693,
-            "roundaboutSegs": 116,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
       "line": "T1",
       "mode": "tram",
       "color": "#d6212b",
@@ -40599,6 +37320,3285 @@
         }
       ],
       "rank": 1
+    },
+    {
+      "line": "N1",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 91,
+          "lengthKm": 28.09,
+          "stats": {
+            "observations": 91,
+            "matched": 91,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.036200493364617,
+            "roundaboutSegs": 187,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 84,
+          "lengthKm": 26.65,
+          "stats": {
+            "observations": 84,
+            "matched": 84,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.658040639178229,
+            "roundaboutSegs": 140,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N2",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Marylebone, Hayes Place",
+          "variants": 1,
+          "tripCount": 50,
+          "stops": 51,
+          "lengthKm": 15.88,
+          "stats": {
+            "observations": 51,
+            "matched": 51,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.35130742656656,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Marylebone, Hayes Place",
+          "variants": 1,
+          "tripCount": 52,
+          "stops": 50,
+          "lengthKm": 15.5,
+          "stats": {
+            "observations": 50,
+            "matched": 50,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.942685759633086,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N3",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 108,
+          "stops": 88,
+          "lengthKm": 25.65,
+          "stats": {
+            "observations": 88,
+            "matched": 88,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.161819004594997,
+            "roundaboutSegs": 48,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 108,
+          "stops": 84,
+          "lengthKm": 25.42,
+          "stats": {
+            "observations": 84,
+            "matched": 84,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.993478997974169,
+            "roundaboutSegs": 72,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N5",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 96,
+          "stops": 66,
+          "lengthKm": 22.05,
+          "stats": {
+            "observations": 66,
+            "matched": 66,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.5462918596739135,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Edgware Station",
+          "variants": 1,
+          "tripCount": 92,
+          "stops": 61,
+          "lengthKm": 21.75,
+          "stats": {
+            "observations": 61,
+            "matched": 61,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.61974685624834,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N7",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Oxford Circus",
+          "variants": 1,
+          "tripCount": 44,
+          "stops": 74,
+          "lengthKm": 24.51,
+          "stats": {
+            "observations": 74,
+            "matched": 74,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.024251605772814,
+            "roundaboutSegs": 97,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Oxford Circus",
+          "variants": 1,
+          "tripCount": 44,
+          "stops": 76,
+          "lengthKm": 24.73,
+          "stats": {
+            "observations": 76,
+            "matched": 76,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.441964971107627,
+            "roundaboutSegs": 103,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N8",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Oxford Circus",
+          "variants": 1,
+          "tripCount": 101,
+          "stops": 84,
+          "lengthKm": 26.72,
+          "stats": {
+            "observations": 84,
+            "matched": 84,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.861474859909133,
+            "roundaboutSegs": 56,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Oxford Circus",
+          "variants": 1,
+          "tripCount": 100,
+          "stops": 77,
+          "lengthKm": 26.33,
+          "stats": {
+            "observations": 77,
+            "matched": 77,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.073681981312099,
+            "roundaboutSegs": 59,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N9",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Heathrow Airport, Terminal 5",
+          "variants": 1,
+          "tripCount": 57,
+          "stops": 80,
+          "lengthKm": 31.77,
+          "stats": {
+            "observations": 80,
+            "matched": 80,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.225096333829126,
+            "roundaboutSegs": 94,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Heathrow Airport, Terminal 5",
+          "variants": 1,
+          "tripCount": 55,
+          "stops": 86,
+          "lengthKm": 33.3,
+          "stats": {
+            "observations": 86,
+            "matched": 86,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.951030215959283,
+            "roundaboutSegs": 77,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N11",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ealing Broadway",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 72,
+          "lengthKm": 21.31,
+          "stats": {
+            "observations": 72,
+            "matched": 72,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.4571403739222655,
+            "roundaboutSegs": 24,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Ealing Broadway",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 66,
+          "lengthKm": 21.48,
+          "stats": {
+            "observations": 66,
+            "matched": 66,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.083213712728894,
+            "roundaboutSegs": 32,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N15",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 118,
+          "stops": 93,
+          "lengthKm": 29.83,
+          "stats": {
+            "observations": 93,
+            "matched": 93,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.695727097802025,
+            "roundaboutSegs": 66,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 136,
+          "stops": 90,
+          "lengthKm": 29.41,
+          "stats": {
+            "observations": 90,
+            "matched": 90,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.202886121982946,
+            "roundaboutSegs": 56,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N18",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 140,
+          "stops": 71,
+          "lengthKm": 30.58,
+          "stats": {
+            "observations": 71,
+            "matched": 71,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.4197725097673475,
+            "roundaboutSegs": 122,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 132,
+          "stops": 69,
+          "lengthKm": 23.64,
+          "stats": {
+            "observations": 69,
+            "matched": 69,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.521958614115329,
+            "roundaboutSegs": 55,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N19",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 80,
+          "stops": 52,
+          "lengthKm": 16,
+          "stats": {
+            "observations": 52,
+            "matched": 52,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.199360953538469,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 84,
+          "stops": 55,
+          "lengthKm": 15.52,
+          "stats": {
+            "observations": 55,
+            "matched": 55,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.700584555839061,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N20",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 44,
+          "stops": 74,
+          "lengthKm": 22.11,
+          "stats": {
+            "observations": 74,
+            "matched": 74,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.715339838258311,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 49,
+          "stops": 73,
+          "lengthKm": 22.16,
+          "stats": {
+            "observations": 73,
+            "matched": 73,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.283100175425652,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N21",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 42,
+          "stops": 87,
+          "lengthKm": 26.79,
+          "stats": {
+            "observations": 87,
+            "matched": 87,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.823096726404561,
+            "roundaboutSegs": 68,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 44,
+          "stops": 84,
+          "lengthKm": 26.84,
+          "stats": {
+            "observations": 84,
+            "matched": 84,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.130605864923684,
+            "roundaboutSegs": 74,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N22",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Oxford Circus",
+          "variants": 1,
+          "tripCount": 52,
+          "stops": 64,
+          "lengthKm": 21.35,
+          "stats": {
+            "observations": 64,
+            "matched": 64,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.5868957735482265,
+            "roundaboutSegs": 33,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Oxford Circus",
+          "variants": 1,
+          "tripCount": 44,
+          "stops": 65,
+          "lengthKm": 21.46,
+          "stats": {
+            "observations": 65,
+            "matched": 65,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.048280788339742,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N25",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 104,
+          "stops": 59,
+          "lengthKm": 17.46,
+          "stats": {
+            "observations": 59,
+            "matched": 59,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.059545989979561,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 126,
+          "stops": 59,
+          "lengthKm": 18.03,
+          "stats": {
+            "observations": 59,
+            "matched": 59,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.095011523418755,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N26",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 44,
+          "stops": 83,
+          "lengthKm": 25.82,
+          "stats": {
+            "observations": 83,
+            "matched": 83,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.225920575204104,
+            "roundaboutSegs": 56,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 48,
+          "stops": 86,
+          "lengthKm": 25.6,
+          "stats": {
+            "observations": 86,
+            "matched": 86,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.689844961975473,
+            "roundaboutSegs": 41,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N27",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 35,
+          "lengthKm": 11.12,
+          "stats": {
+            "observations": 35,
+            "matched": 35,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.740178135413739,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 40,
+          "lengthKm": 11.99,
+          "stats": {
+            "observations": 40,
+            "matched": 40,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.4870875970226,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N28",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 32,
+          "stops": 59,
+          "lengthKm": 18.13,
+          "stats": {
+            "observations": 59,
+            "matched": 59,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.507998369209381,
+            "roundaboutSegs": 37,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 32,
+          "stops": 58,
+          "lengthKm": 16.83,
+          "stats": {
+            "observations": 58,
+            "matched": 58,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.003864451749622,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N29",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 124,
+          "stops": 71,
+          "lengthKm": 19.94,
+          "stats": {
+            "observations": 71,
+            "matched": 71,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.996350505779032,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 116,
+          "stops": 69,
+          "lengthKm": 19.63,
+          "stats": {
+            "observations": 69,
+            "matched": 69,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.920696189129442,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N30",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Heathrow Central Bus Station",
+          "variants": 1,
+          "tripCount": 11,
+          "stops": 35,
+          "lengthKm": 26.36,
+          "stats": {
+            "observations": 35,
+            "matched": 35,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.601669931682081,
+            "roundaboutSegs": 53,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "King Street (W3)",
+          "variants": 1,
+          "tripCount": 8,
+          "stops": 38,
+          "lengthKm": 25.34,
+          "stats": {
+            "observations": 38,
+            "matched": 38,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.219288061482184,
+            "roundaboutSegs": 69,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N31",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 32,
+          "stops": 57,
+          "lengthKm": 17.4,
+          "stats": {
+            "observations": 57,
+            "matched": 57,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.244154081303573,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 61,
+          "lengthKm": 16.41,
+          "stats": {
+            "observations": 61,
+            "matched": 61,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.060273502385464,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N32",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Oxford Circus",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 56,
+          "lengthKm": 16.97,
+          "stats": {
+            "observations": 56,
+            "matched": 56,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.423603012706228,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Oxford Circus",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 57,
+          "lengthKm": 16.88,
+          "stats": {
+            "observations": 57,
+            "matched": 57,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.716253605375288,
+            "roundaboutSegs": 26,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N33",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 50,
+          "lengthKm": 16.61,
+          "stats": {
+            "observations": 50,
+            "matched": 50,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.792506536772255,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 52,
+          "lengthKm": 17.14,
+          "stats": {
+            "observations": 52,
+            "matched": 52,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.244660143839846,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N38",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 68,
+          "stops": 57,
+          "lengthKm": 17.36,
+          "stats": {
+            "observations": 57,
+            "matched": 57,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.917043899223666,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 74,
+          "stops": 59,
+          "lengthKm": 17.45,
+          "stats": {
+            "observations": 59,
+            "matched": 59,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.621877061970389,
+            "roundaboutSegs": 46,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N40",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 16,
+          "lengthKm": 43.29,
+          "stats": {
+            "observations": 16,
+            "matched": 16,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.096367832648878,
+            "roundaboutSegs": 134,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N41",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 57,
+          "lengthKm": 16.41,
+          "stats": {
+            "observations": 57,
+            "matched": 57,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.655879180722791,
+            "roundaboutSegs": 9,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 57,
+          "lengthKm": 16.57,
+          "stats": {
+            "observations": 57,
+            "matched": 57,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.878408051609014,
+            "roundaboutSegs": 9,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N44",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Sutton Station",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 76,
+          "lengthKm": 23.2,
+          "stats": {
+            "observations": 76,
+            "matched": 76,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.601438683757348,
+            "roundaboutSegs": 56,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Sutton Station",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 80,
+          "lengthKm": 23.43,
+          "stats": {
+            "observations": 80,
+            "matched": 80,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.6889209865714445,
+            "roundaboutSegs": 73,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N53",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 52,
+          "stops": 59,
+          "lengthKm": 19.92,
+          "stats": {
+            "observations": 59,
+            "matched": 59,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.462147384974449,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 52,
+          "stops": 52,
+          "lengthKm": 19.03,
+          "stats": {
+            "observations": 52,
+            "matched": 52,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.799849622764938,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N55",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Oxford Circus",
+          "variants": 1,
+          "tripCount": 42,
+          "stops": 78,
+          "lengthKm": 23.13,
+          "stats": {
+            "observations": 78,
+            "matched": 78,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.676625593860845,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Oxford Circus",
+          "variants": 1,
+          "tripCount": 34,
+          "stops": 74,
+          "lengthKm": 22.54,
+          "stats": {
+            "observations": 74,
+            "matched": 74,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.301853312055165,
+            "roundaboutSegs": 54,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N63",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 56,
+          "stops": 54,
+          "lengthKm": 15.74,
+          "stats": {
+            "observations": 54,
+            "matched": 54,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.375306819004973,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 54,
+          "stops": 55,
+          "lengthKm": 16.78,
+          "stats": {
+            "observations": 55,
+            "matched": 55,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.905058086704598,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N65",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ealing Broadway Station",
+          "variants": 1,
+          "tripCount": 27,
+          "stops": 76,
+          "lengthKm": 24.17,
+          "stats": {
+            "observations": 76,
+            "matched": 76,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.080180144153465,
+            "roundaboutSegs": 70,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Ealing Broadway Station",
+          "variants": 1,
+          "tripCount": 27,
+          "stops": 76,
+          "lengthKm": 24.33,
+          "stats": {
+            "observations": 76,
+            "matched": 76,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.695417860707103,
+            "roundaboutSegs": 58,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N68",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Tottenham Court Road Station",
+          "variants": 1,
+          "tripCount": 44,
+          "stops": 94,
+          "lengthKm": 29.57,
+          "stats": {
+            "observations": 94,
+            "matched": 94,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.862434720903684,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Tottenham Court Road Station",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 99,
+          "lengthKm": 30.66,
+          "stats": {
+            "observations": 99,
+            "matched": 99,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.899138920540495,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N72",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Roehampton, Bessborough Road",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 47,
+          "lengthKm": 14.95,
+          "stats": {
+            "observations": 47,
+            "matched": 47,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.820796673252931,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Roehampton, Bessborough Road",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 48,
+          "lengthKm": 15.79,
+          "stats": {
+            "observations": 48,
+            "matched": 48,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.565561332790207,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N73",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 68,
+          "stops": 56,
+          "lengthKm": 17.12,
+          "stats": {
+            "observations": 56,
+            "matched": 56,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.345687518914094,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 60,
+          "stops": 60,
+          "lengthKm": 17.71,
+          "stats": {
+            "observations": 60,
+            "matched": 60,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.831049558014687,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N74",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Baker Street Station",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 51,
+          "lengthKm": 16.72,
+          "stats": {
+            "observations": 51,
+            "matched": 51,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.642468630377305,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Baker Street Station",
+          "variants": 1,
+          "tripCount": 45,
+          "stops": 52,
+          "lengthKm": 16.75,
+          "stats": {
+            "observations": 52,
+            "matched": 52,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.057545086575412,
+            "roundaboutSegs": 45,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N83",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ealing Hospital",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 60,
+          "lengthKm": 20.17,
+          "stats": {
+            "observations": 60,
+            "matched": 60,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.698930291464502,
+            "roundaboutSegs": 58,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Golders Green Station",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 59,
+          "lengthKm": 20.25,
+          "stats": {
+            "observations": 59,
+            "matched": 59,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.631047858417685,
+            "roundaboutSegs": 53,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N86",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 46,
+          "stops": 73,
+          "lengthKm": 23.7,
+          "stats": {
+            "observations": 73,
+            "matched": 73,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.916270222001362,
+            "roundaboutSegs": 75,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Stratford Bus Station",
+          "variants": 1,
+          "tripCount": 46,
+          "stops": 71,
+          "lengthKm": 23.08,
+          "stats": {
+            "observations": 71,
+            "matched": 71,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.28112233416948,
+            "roundaboutSegs": 69,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N87",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Aldwych",
+          "variants": 1,
+          "tripCount": 80,
+          "stops": 77,
+          "lengthKm": 25.69,
+          "stats": {
+            "observations": 77,
+            "matched": 77,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.100793263051695,
+            "roundaboutSegs": 66,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Aldwych",
+          "variants": 1,
+          "tripCount": 80,
+          "stops": 78,
+          "lengthKm": 24.55,
+          "stats": {
+            "observations": 78,
+            "matched": 78,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.401409577788703,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N89",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 44,
+          "stops": 104,
+          "lengthKm": 34.03,
+          "stats": {
+            "observations": 104,
+            "matched": 104,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.874596713151304,
+            "roundaboutSegs": 21,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 107,
+          "lengthKm": 34.19,
+          "stats": {
+            "observations": 107,
+            "matched": 107,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.81812166382354,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N91",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 51,
+          "stops": 71,
+          "lengthKm": 23.21,
+          "stats": {
+            "observations": 71,
+            "matched": 71,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.001127180063173,
+            "roundaboutSegs": 50,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 48,
+          "stops": 71,
+          "lengthKm": 23.66,
+          "stats": {
+            "observations": 71,
+            "matched": 71,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.39957150884059,
+            "roundaboutSegs": 61,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N97",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 55,
+          "stops": 31,
+          "lengthKm": 9.97,
+          "stats": {
+            "observations": 31,
+            "matched": 31,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.145207956734637,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 55,
+          "stops": 32,
+          "lengthKm": 9.7,
+          "stats": {
+            "observations": 32,
+            "matched": 32,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.392829444916198,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N98",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Stanmore Station",
+          "variants": 1,
+          "tripCount": 88,
+          "stops": 64,
+          "lengthKm": 22.05,
+          "stats": {
+            "observations": 64,
+            "matched": 64,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.882874571877057,
+            "roundaboutSegs": 70,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Stanmore Station",
+          "variants": 1,
+          "tripCount": 96,
+          "stops": 66,
+          "lengthKm": 22.13,
+          "stats": {
+            "observations": 66,
+            "matched": 66,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.353553907413023,
+            "roundaboutSegs": 64,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N109",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Oxford Circus",
+          "variants": 1,
+          "tripCount": 42,
+          "stops": 57,
+          "lengthKm": 18.3,
+          "stats": {
+            "observations": 57,
+            "matched": 57,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 11.242730613995075,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Oxford Circus",
+          "variants": 1,
+          "tripCount": 52,
+          "stops": 62,
+          "lengthKm": 18.61,
+          "stats": {
+            "observations": 62,
+            "matched": 62,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.976326227839132,
+            "roundaboutSegs": 21,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N113",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 32,
+          "stops": 61,
+          "lengthKm": 20.31,
+          "stats": {
+            "observations": 61,
+            "matched": 61,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.06617302300142,
+            "roundaboutSegs": 59,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 32,
+          "stops": 57,
+          "lengthKm": 19.77,
+          "stats": {
+            "observations": 57,
+            "matched": 57,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.700648858841093,
+            "roundaboutSegs": 26,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N118",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 140,
+          "stops": 80,
+          "lengthKm": 33.61,
+          "stats": {
+            "observations": 80,
+            "matched": 80,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.66786826927213,
+            "roundaboutSegs": 142,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 124,
+          "stops": 73,
+          "lengthKm": 26.73,
+          "stats": {
+            "observations": 73,
+            "matched": 73,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.400049515166376,
+            "roundaboutSegs": 76,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N133",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 32,
+          "stops": 65,
+          "lengthKm": 20.38,
+          "stats": {
+            "observations": 65,
+            "matched": 65,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.806838034172868,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 64,
+          "lengthKm": 19.94,
+          "stats": {
+            "observations": 64,
+            "matched": 64,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.6509974302879975,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N136",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Chislehurst, War Memorial",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 93,
+          "lengthKm": 27.57,
+          "stats": {
+            "observations": 93,
+            "matched": 93,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.844273481379506,
+            "roundaboutSegs": 32,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Chislehurst, War Memorial",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 92,
+          "lengthKm": 27.37,
+          "stats": {
+            "observations": 92,
+            "matched": 92,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.716566299547709,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N137",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Oxford Circus",
+          "variants": 1,
+          "tripCount": 60,
+          "stops": 59,
+          "lengthKm": 17.8,
+          "stats": {
+            "observations": 59,
+            "matched": 59,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.594236771346685,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Oxford Circus",
+          "variants": 1,
+          "tripCount": 60,
+          "stops": 56,
+          "lengthKm": 17.62,
+          "stats": {
+            "observations": 56,
+            "matched": 56,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.661402328352938,
+            "roundaboutSegs": 50,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N140",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 52,
+          "stops": 59,
+          "lengthKm": 21.71,
+          "stats": {
+            "observations": 59,
+            "matched": 59,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.397730364304225,
+            "roundaboutSegs": 110,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 52,
+          "stops": 52,
+          "lengthKm": 20.46,
+          "stats": {
+            "observations": 52,
+            "matched": 52,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.982217713417982,
+            "roundaboutSegs": 70,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N155",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Aldwych",
+          "variants": 1,
+          "tripCount": 64,
+          "stops": 53,
+          "lengthKm": 16.65,
+          "stats": {
+            "observations": 53,
+            "matched": 53,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.499223334545311,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Morden Station",
+          "variants": 1,
+          "tripCount": 68,
+          "stops": 56,
+          "lengthKm": 17.01,
+          "stats": {
+            "observations": 56,
+            "matched": 56,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.2865707501711094,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N171",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Tottenham Court Road Station",
+          "variants": 1,
+          "tripCount": 32,
+          "stops": 63,
+          "lengthKm": 18.74,
+          "stats": {
+            "observations": 63,
+            "matched": 63,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.578211070915098,
+            "roundaboutSegs": 3,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Tottenham Court Road Station",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 59,
+          "lengthKm": 19.2,
+          "stats": {
+            "observations": 59,
+            "matched": 59,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.6241297872179254,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N199",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "St Mary Cray Station",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 113,
+          "lengthKm": 34.79,
+          "stats": {
+            "observations": 113,
+            "matched": 113,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.559936950129175,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 35,
+          "stops": 110,
+          "lengthKm": 34.52,
+          "stats": {
+            "observations": 110,
+            "matched": 110,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.786868110408512,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N205",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Leyton, Downsell Road",
+          "variants": 1,
+          "tripCount": 50,
+          "stops": 54,
+          "lengthKm": 17.77,
+          "stats": {
+            "observations": 54,
+            "matched": 54,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.926967825693299,
+            "roundaboutSegs": 21,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Leyton, Downsell Road",
+          "variants": 1,
+          "tripCount": 44,
+          "stops": 58,
+          "lengthKm": 18.13,
+          "stats": {
+            "observations": 58,
+            "matched": 58,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.445641345057521,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N207",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 88,
+          "stops": 88,
+          "lengthKm": 27.82,
+          "stats": {
+            "observations": 88,
+            "matched": 88,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.411481184763979,
+            "roundaboutSegs": 67,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 110,
+          "stops": 93,
+          "lengthKm": 28.18,
+          "stats": {
+            "observations": 93,
+            "matched": 93,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.678381171820512,
+            "roundaboutSegs": 81,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N242",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Tottenham Court Road",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 45,
+          "lengthKm": 12.41,
+          "stats": {
+            "observations": 45,
+            "matched": 45,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.164570385891329,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Homerton Hospital",
+          "variants": 1,
+          "tripCount": 44,
+          "stops": 46,
+          "lengthKm": 12.48,
+          "stats": {
+            "observations": 46,
+            "matched": 46,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.408287844979435,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N250",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 72,
+          "stops": 46,
+          "lengthKm": 13.14,
+          "stats": {
+            "observations": 46,
+            "matched": 46,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.965616752600301,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 72,
+          "stops": 45,
+          "lengthKm": 13.01,
+          "stats": {
+            "observations": 45,
+            "matched": 45,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 10.55298138770714,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N253",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Tottenham Court Road Station",
+          "variants": 1,
+          "tripCount": 52,
+          "stops": 67,
+          "lengthKm": 18.7,
+          "stats": {
+            "observations": 67,
+            "matched": 67,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.862612745740575,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Tottenham Court Road Station",
+          "variants": 1,
+          "tripCount": 50,
+          "stops": 64,
+          "lengthKm": 18.45,
+          "stats": {
+            "observations": 64,
+            "matched": 64,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.809142231182951,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N263",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Moorgate, Finsbury Square",
+          "variants": 1,
+          "tripCount": 48,
+          "stops": 48,
+          "lengthKm": 13.26,
+          "stats": {
+            "observations": 48,
+            "matched": 48,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.46554092739119,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Moorgate, Finsbury Square",
+          "variants": 1,
+          "tripCount": 48,
+          "stops": 47,
+          "lengthKm": 13.29,
+          "stats": {
+            "observations": 47,
+            "matched": 47,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.801418806502741,
+            "roundaboutSegs": 9,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N266",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Brent Cross",
+          "variants": 1,
+          "tripCount": 44,
+          "stops": 58,
+          "lengthKm": 16.75,
+          "stats": {
+            "observations": 58,
+            "matched": 58,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.200393265538835,
+            "roundaboutSegs": 44,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Brent Cross",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 60,
+          "lengthKm": 17.22,
+          "stats": {
+            "observations": 60,
+            "matched": 60,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.406264365323184,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N277",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Crossharbour, Asda",
+          "variants": 1,
+          "tripCount": 48,
+          "stops": 57,
+          "lengthKm": 16.07,
+          "stats": {
+            "observations": 57,
+            "matched": 57,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.139751377995571,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Crossharbour, Asda",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 59,
+          "lengthKm": 16,
+          "stats": {
+            "observations": 59,
+            "matched": 59,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.613546493468204,
+            "roundaboutSegs": 42,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N279",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 180,
+          "stops": 75,
+          "lengthKm": 23.53,
+          "stats": {
+            "observations": 75,
+            "matched": 75,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.715376300893924,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Waltham Cross, Bus Station",
+          "variants": 1,
+          "tripCount": 192,
+          "stops": 80,
+          "lengthKm": 23.39,
+          "stats": {
+            "observations": 80,
+            "matched": 80,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.530895405605829,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N343",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 49,
+          "lengthKm": 14.89,
+          "stats": {
+            "observations": 49,
+            "matched": 49,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.240754253989757,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 51,
+          "lengthKm": 15.07,
+          "stats": {
+            "observations": 51,
+            "matched": 51,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.379250878211691,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N381",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 55,
+          "lengthKm": 15.31,
+          "stats": {
+            "observations": 55,
+            "matched": 55,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.8272597387352825,
+            "roundaboutSegs": 37,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trafalgar Square",
+          "variants": 1,
+          "tripCount": 36,
+          "stops": 56,
+          "lengthKm": 15.79,
+          "stats": {
+            "observations": 56,
+            "matched": 56,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.458865114370556,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N472",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 39,
+          "lengthKm": 15.17,
+          "stats": {
+            "observations": 39,
+            "matched": 39,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.716356260959057,
+            "roundaboutSegs": 167,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 37,
+          "lengthKm": 14.97,
+          "stats": {
+            "observations": 37,
+            "matched": 37,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.354974476814196,
+            "roundaboutSegs": 120,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N550",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 44,
+          "stops": 59,
+          "lengthKm": 17.97,
+          "stats": {
+            "observations": 59,
+            "matched": 59,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.991086604115588,
+            "roundaboutSegs": 42,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 52,
+          "stops": 59,
+          "lengthKm": 17.39,
+          "stats": {
+            "observations": 59,
+            "matched": 59,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.127000894454144,
+            "roundaboutSegs": 65,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N551",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Gallions Reach, Shopping Park",
+          "variants": 1,
+          "tripCount": 48,
+          "stops": 64,
+          "lengthKm": 20.1,
+          "stats": {
+            "observations": 64,
+            "matched": 64,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.969902169995155,
+            "roundaboutSegs": 80,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Gallions Reach, Shopping Park",
+          "variants": 1,
+          "tripCount": 56,
+          "stops": 62,
+          "lengthKm": 20.09,
+          "stats": {
+            "observations": 62,
+            "matched": 62,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.319748125480693,
+            "roundaboutSegs": 116,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
     }
   ]
 }
