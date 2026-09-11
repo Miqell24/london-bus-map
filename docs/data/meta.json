@@ -98,7 +98,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Norwood Bus Garage",
           "variants": 1,
           "tripCount": 478,
           "stops": 42,
@@ -119,7 +119,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Marylebone Station",
           "variants": 1,
           "tripCount": 492,
           "stops": 42,
@@ -169,7 +169,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Locksbottom  Pallant Way",
+          "headsign": "Locksbottom Pallant Way",
           "variants": 4,
           "tripCount": 1140,
           "stops": 55,
@@ -448,7 +448,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Hammersmith Bus Station",
           "variants": 1,
           "tripCount": 373,
           "stops": 28,
@@ -548,7 +548,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Eynella Road / Dulwich Library",
           "variants": 1,
           "tripCount": 415,
           "stops": 37,
@@ -569,7 +569,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Margaret Street /Oxford Circus",
           "variants": 1,
           "tripCount": 414,
           "stops": 39,
@@ -598,7 +598,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Victoria Station",
           "variants": 1,
           "tripCount": 471,
           "stops": 51,
@@ -619,7 +619,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "North Finchley Bus Station",
           "variants": 1,
           "tripCount": 471,
           "stops": 51,
@@ -698,7 +698,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Charing Cross",
           "variants": 1,
           "tripCount": 489,
           "stops": 35,
@@ -719,7 +719,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Blackwall",
           "variants": 1,
           "tripCount": 491,
           "stops": 32,
@@ -798,7 +798,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "London Bridge Bus Station",
           "variants": 1,
           "tripCount": 399,
           "stops": 33,
@@ -848,7 +848,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Euston Station",
           "variants": 1,
           "tripCount": 1430,
           "stops": 48,
@@ -869,7 +869,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Sudbury & Harrow Road",
           "variants": 1,
           "tripCount": 1460,
           "stops": 49,
@@ -898,7 +898,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Parkgate Road Battersea",
           "variants": 1,
           "tripCount": 916,
           "stops": 45,
@@ -919,7 +919,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Finsbury Park Interchange",
           "variants": 1,
           "tripCount": 916,
           "stops": 45,
@@ -998,7 +998,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Caledonian Road",
           "variants": 1,
           "tripCount": 479,
           "stops": 51,
@@ -1019,7 +1019,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Molesworth Street",
           "variants": 1,
           "tripCount": 465,
           "stops": 53,
@@ -1148,7 +1148,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Royal Free Hospital",
           "variants": 1,
           "tripCount": 427,
           "stops": 35,
@@ -1169,7 +1169,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Grosvenor Road",
           "variants": 1,
           "tripCount": 427,
           "stops": 39,
@@ -1298,7 +1298,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Hartland Road / Camden Market",
           "variants": 1,
           "tripCount": 392,
           "stops": 36,
@@ -1319,7 +1319,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Glenthorne House",
           "variants": 1,
           "tripCount": 403,
           "stops": 45,
@@ -1398,7 +1398,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Trafalgar Square",
           "variants": 1,
           "tripCount": 686,
           "stops": 42,
@@ -1419,7 +1419,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Wood Green Station",
           "variants": 1,
           "tripCount": 686,
           "stops": 41,
@@ -1448,7 +1448,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Hackney Wick / Trowbridge Rd",
           "variants": 1,
           "tripCount": 314,
           "stops": 32,
@@ -1469,7 +1469,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Euston Bus Station",
           "variants": 1,
           "tripCount": 312,
           "stops": 34,
@@ -1498,7 +1498,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "White City Bus Station",
           "variants": 1,
           "tripCount": 439,
           "stops": 36,
@@ -1519,7 +1519,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Camden Town Station",
           "variants": 1,
           "tripCount": 439,
           "stops": 38,
@@ -1548,7 +1548,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Kilburn Park Station",
           "variants": 1,
           "tripCount": 700,
           "stops": 38,
@@ -1569,7 +1569,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Edgware Station",
           "variants": 1,
           "tripCount": 697,
           "stops": 40,
@@ -1648,7 +1648,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Walthamstow Central Station",
           "variants": 1,
           "tripCount": 654,
           "stops": 52,
@@ -1669,7 +1669,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Fitzjohn Avenue",
           "variants": 1,
           "tripCount": 648,
           "stops": 52,
@@ -1698,7 +1698,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Shoreditch",
           "variants": 1,
           "tripCount": 510,
           "stops": 50,
@@ -1719,7 +1719,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Clapham Junction Station / The Falcon",
           "variants": 1,
           "tripCount": 503,
           "stops": 45,
@@ -1748,7 +1748,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "New Cross Bus Garage",
           "variants": 1,
           "tripCount": 540,
           "stops": 53,
@@ -1769,7 +1769,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Queen's Park Station (London)",
           "variants": 1,
           "tripCount": 544,
           "stops": 53,
@@ -1798,7 +1798,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Peckham Bus Station",
           "variants": 1,
           "tripCount": 418,
           "stops": 52,
@@ -1819,7 +1819,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Putney Heath / Green Man",
           "variants": 1,
           "tripCount": 420,
           "stops": 51,
@@ -1848,7 +1848,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Victoria Bus Station",
           "variants": 1,
           "tripCount": 781,
           "stops": 44,
@@ -1869,7 +1869,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Lea Bridge Roundabout",
           "variants": 1,
           "tripCount": 758,
           "stops": 45,
@@ -1898,7 +1898,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Clapham Junction Station / The Falcon",
           "variants": 1,
           "tripCount": 326,
           "stops": 31,
@@ -1919,7 +1919,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Putney Bridge Station",
           "variants": 1,
           "tripCount": 328,
           "stops": 34,
@@ -1998,7 +1998,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Tottenham Hale Bus Station",
           "variants": 1,
           "tripCount": 624,
           "stops": 26,
@@ -2019,7 +2019,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Archway Station",
           "variants": 1,
           "tripCount": 627,
           "stops": 28,
@@ -2048,7 +2048,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Appold Street",
           "variants": 1,
           "tripCount": 200,
           "stops": 42,
@@ -2069,7 +2069,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "East Dulwich Sainsbury's",
           "variants": 1,
           "tripCount": 203,
           "stops": 38,
@@ -2098,7 +2098,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "London Bridge Bus Station",
           "variants": 1,
           "tripCount": 662,
           "stops": 52,
@@ -2119,7 +2119,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Halliwick Park",
           "variants": 1,
           "tripCount": 668,
           "stops": 52,
@@ -2169,7 +2169,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Victoria Station",
           "variants": 1,
           "tripCount": 396,
           "stops": 44,
@@ -2298,7 +2298,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Shoreditch",
           "variants": 1,
           "tripCount": 361,
           "stops": 54,
@@ -2319,7 +2319,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Catford Garage",
           "variants": 1,
           "tripCount": 356,
           "stops": 53,
@@ -2348,7 +2348,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "White City Bus Station",
           "variants": 1,
           "tripCount": 421,
           "stops": 38,
@@ -2369,7 +2369,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Bolingbroke Grove",
           "variants": 1,
           "tripCount": 424,
           "stops": 32,
@@ -2498,7 +2498,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Pound Lane (NW10)",
           "variants": 1,
           "tripCount": 337,
           "stops": 36,
@@ -2519,7 +2519,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Victoria Bus Station",
           "variants": 1,
           "tripCount": 343,
           "stops": 37,
@@ -2548,7 +2548,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Lower Marsh",
           "variants": 1,
           "tripCount": 1063,
           "stops": 56,
@@ -2569,7 +2569,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Griffin Road / Plumstead Station",
           "variants": 1,
           "tripCount": 1068,
           "stops": 47,
@@ -2598,7 +2598,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Plumstead Road / Burrage Road",
           "variants": 1,
           "tripCount": 364,
           "stops": 51,
@@ -2619,7 +2619,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Elmers End Interchange",
           "variants": 1,
           "tripCount": 360,
           "stops": 52,
@@ -2748,7 +2748,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Atkins Road / New Park Road",
           "variants": 1,
           "tripCount": 402,
           "stops": 61,
@@ -2769,7 +2769,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Fairfield Bus Station",
           "variants": 1,
           "tripCount": 408,
           "stops": 60,
@@ -2798,7 +2798,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "South Grove (E17)",
           "variants": 1,
           "tripCount": 264,
           "stops": 47,
@@ -2819,7 +2819,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "East Ham / Central Park",
           "variants": 1,
           "tripCount": 266,
           "stops": 44,
@@ -2948,7 +2948,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Bromley North Station",
           "variants": 1,
           "tripCount": 254,
           "stops": 41,
@@ -2969,7 +2969,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Chislehurst / Gordon Arms",
           "variants": 1,
           "tripCount": 260,
           "stops": 42,
@@ -2998,7 +2998,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Gascoigne Road",
           "variants": 1,
           "tripCount": 691,
           "stops": 43,
@@ -3019,7 +3019,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Marks Gate Billet Road",
           "variants": 1,
           "tripCount": 709,
           "stops": 48,
@@ -3048,7 +3048,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "King's Cross Stn / York Way",
           "variants": 1,
           "tripCount": 806,
           "stops": 40,
@@ -3069,7 +3069,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Therapia Road",
           "variants": 1,
           "tripCount": 804,
           "stops": 41,
@@ -3098,7 +3098,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Vulcan Way",
           "variants": 1,
           "tripCount": 314,
           "stops": 56,
@@ -3119,7 +3119,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Thornton Heath Pond",
           "variants": 1,
           "tripCount": 311,
           "stops": 58,
@@ -3148,7 +3148,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Ealing Broadway Station",
           "variants": 1,
           "tripCount": 385,
           "stops": 45,
@@ -3169,7 +3169,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Brook Street (KT1)",
           "variants": 1,
           "tripCount": 387,
           "stops": 44,
@@ -3198,7 +3198,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Leytonstone Station",
           "variants": 1,
           "tripCount": 982,
           "stops": 31,
@@ -3219,7 +3219,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Romford Station",
           "variants": 1,
           "tripCount": 976,
           "stops": 34,
@@ -3298,7 +3298,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Euston Bus Station",
           "variants": 1,
           "tripCount": 429,
           "stops": 43,
@@ -3319,7 +3319,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Ernest Avenue",
           "variants": 1,
           "tripCount": 432,
           "stops": 42,
@@ -3398,7 +3398,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Queensberry Place",
           "variants": 1,
           "tripCount": 323,
           "stops": 50,
@@ -3419,7 +3419,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Chiswick Business Park",
           "variants": 1,
           "tripCount": 325,
           "stops": 52,
@@ -3448,7 +3448,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Cromwell Road Bus Station",
           "variants": 1,
           "tripCount": 478,
           "stops": 34,
@@ -3469,7 +3469,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Chessington World Of Adventures",
           "variants": 1,
           "tripCount": 481,
           "stops": 35,
@@ -3648,7 +3648,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Fairfield Halls",
           "variants": 1,
           "tripCount": 354,
           "stops": 46,
@@ -3669,7 +3669,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Lewisham Station",
           "variants": 1,
           "tripCount": 360,
           "stops": 48,
@@ -4198,7 +4198,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Clapham Old Town / Omnibus",
           "variants": 1,
           "tripCount": 459,
           "stops": 49,
@@ -4219,7 +4219,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Parliament Hill Fields",
           "variants": 1,
           "tripCount": 458,
           "stops": 49,
@@ -4398,7 +4398,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Ikea Brent Park",
           "variants": 1,
           "tripCount": 379,
           "stops": 44,
@@ -4419,7 +4419,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Ealing Hospital",
           "variants": 1,
           "tripCount": 386,
           "stops": 41,
@@ -4448,7 +4448,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Putney Bridge Station",
           "variants": 1,
           "tripCount": 559,
           "stops": 43,
@@ -4548,7 +4548,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Shepherd's Bush Green / Uxbridge Road",
           "variants": 1,
           "tripCount": 191,
           "stops": 43,
@@ -4719,7 +4719,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Pound Lane (NW10)",
           "variants": 1,
           "tripCount": 469,
           "stops": 36,
@@ -4748,7 +4748,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Geddes Place",
           "variants": 1,
           "tripCount": 248,
           "stops": 57,
@@ -4769,7 +4769,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Beresford Sq /Woolwich Arsenal",
           "variants": 1,
           "tripCount": 245,
           "stops": 50,
@@ -4798,7 +4798,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "St George's Town Hall / Shadwell Station",
           "variants": 1,
           "tripCount": 250,
           "stops": 25,
@@ -4819,7 +4819,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "St. Bartholomews Hospital",
           "variants": 1,
           "tripCount": 251,
           "stops": 23,
@@ -4848,7 +4848,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Beckton Bus Station",
           "variants": 1,
           "tripCount": 289,
           "stops": 33,
@@ -4869,7 +4869,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Woodbine Place",
           "variants": 1,
           "tripCount": 292,
           "stops": 32,
@@ -4948,7 +4948,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Rainham Station",
           "variants": 1,
           "tripCount": 446,
           "stops": 44,
@@ -4969,7 +4969,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Chase Cross",
           "variants": 1,
           "tripCount": 466,
           "stops": 44,
@@ -5048,7 +5048,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Heathrow Central Bus Station",
           "variants": 1,
           "tripCount": 402,
           "stops": 44,
@@ -5069,7 +5069,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Greenford",
           "variants": 1,
           "tripCount": 400,
           "stops": 47,
@@ -5098,7 +5098,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Cavell Street",
           "variants": 1,
           "tripCount": 337,
           "stops": 35,
@@ -5119,7 +5119,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Finsbury Park Interchange",
           "variants": 1,
           "tripCount": 341,
           "stops": 37,
@@ -5148,7 +5148,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "New Barnet Station",
           "variants": 1,
           "tripCount": 311,
           "stops": 50,
@@ -5198,7 +5198,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Lewisham Station",
           "variants": 1,
           "tripCount": 410,
           "stops": 37,
@@ -5219,7 +5219,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Stratford International Station",
           "variants": 1,
           "tripCount": 400,
           "stops": 36,
@@ -5248,7 +5248,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Brixton Station",
           "variants": 1,
           "tripCount": 810,
           "stops": 36,
@@ -5269,7 +5269,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Park Street",
           "variants": 1,
           "tripCount": 804,
           "stops": 39,
@@ -5298,7 +5298,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Hammersmith Bus Station",
           "variants": 1,
           "tripCount": 238,
           "stops": 58,
@@ -5319,7 +5319,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hounslow Bus Station",
           "variants": 1,
           "tripCount": 226,
           "stops": 56,
@@ -5348,7 +5348,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Cromwell Road Bus Station",
           "variants": 1,
           "tripCount": 450,
           "stops": 64,
@@ -5369,7 +5369,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Heathrow Central Bus Station",
           "variants": 1,
           "tripCount": 445,
           "stops": 64,
@@ -5498,7 +5498,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Ruislip",
           "variants": 1,
           "tripCount": 419,
           "stops": 47,
@@ -5519,7 +5519,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Mill Hill Broadway",
           "variants": 1,
           "tripCount": 411,
           "stops": 48,
@@ -5548,7 +5548,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Aldgate",
           "variants": 1,
           "tripCount": 510,
           "stops": 37,
@@ -5569,7 +5569,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "East Ham / Central Park",
           "variants": 1,
           "tripCount": 509,
           "stops": 40,
@@ -5848,7 +5848,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Crystal Palace Parade",
           "variants": 1,
           "tripCount": 354,
           "stops": 64,
@@ -5869,7 +5869,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Plumstead Bus Garage",
           "variants": 1,
           "tripCount": 353,
           "stops": 62,
@@ -5898,7 +5898,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Hainault Street",
           "variants": 1,
           "tripCount": 464,
           "stops": 53,
@@ -5919,7 +5919,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Turnpike Lane Station",
           "variants": 1,
           "tripCount": 467,
           "stops": 54,
@@ -6148,7 +6148,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Claybury Broadway",
           "variants": 1,
           "tripCount": 344,
           "stops": 53,
@@ -6169,7 +6169,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Romford Station",
           "variants": 1,
           "tripCount": 347,
           "stops": 52,
@@ -6248,7 +6248,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Parchmore Road",
           "variants": 1,
           "tripCount": 316,
           "stops": 43,
@@ -6269,7 +6269,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Vulcan Way",
           "variants": 1,
           "tripCount": 312,
           "stops": 46,
@@ -6348,7 +6348,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Geddes Place",
           "variants": 1,
           "tripCount": 277,
           "stops": 46,
@@ -6369,7 +6369,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "North Greenwich Station",
           "variants": 1,
           "tripCount": 279,
           "stops": 44,
@@ -6398,7 +6398,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Drake Street",
           "variants": 1,
           "tripCount": 493,
           "stops": 45,
@@ -6469,7 +6469,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Tally Ho Corner",
           "variants": 1,
           "tripCount": 529,
           "stops": 46,
@@ -6698,7 +6698,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Waterloo Station / Waterloo Road",
           "variants": 1,
           "tripCount": 449,
           "stops": 42,
@@ -6719,7 +6719,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Golders Green Station",
           "variants": 1,
           "tripCount": 454,
           "stops": 43,
@@ -6748,7 +6748,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Long Elmes Harrow Weald",
           "variants": 1,
           "tripCount": 307,
           "stops": 47,
@@ -6769,7 +6769,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hayes & Harlington Station",
           "variants": 1,
           "tripCount": 307,
           "stops": 42,
@@ -6798,7 +6798,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "London Bridge Bus Station",
           "variants": 1,
           "tripCount": 588,
           "stops": 48,
@@ -6819,7 +6819,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Tottenhall Rd/ Nth Circular Rd",
           "variants": 1,
           "tripCount": 582,
           "stops": 47,
@@ -6848,7 +6848,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Brent Cross Shopping Centre",
           "variants": 1,
           "tripCount": 673,
           "stops": 58,
@@ -6869,7 +6869,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Watford Junction Railway Station",
           "variants": 1,
           "tripCount": 680,
           "stops": 56,
@@ -6898,7 +6898,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Archway Station",
           "variants": 1,
           "tripCount": 322,
           "stops": 41,
@@ -6919,7 +6919,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Brent Cross Shopping Centre",
           "variants": 1,
           "tripCount": 333,
           "stops": 42,
@@ -6948,7 +6948,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Edmonton Green Bus Station",
           "variants": 1,
           "tripCount": 345,
           "stops": 37,
@@ -6969,7 +6969,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Muswell Hill Broadway",
           "variants": 1,
           "tripCount": 339,
           "stops": 35,
@@ -6998,7 +6998,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Leytonstone Station",
           "variants": 1,
           "tripCount": 332,
           "stops": 60,
@@ -7019,7 +7019,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Dagenham Asda",
           "variants": 1,
           "tripCount": 327,
           "stops": 59,
@@ -7098,7 +7098,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Canning Town",
           "variants": 1,
           "tripCount": 369,
           "stops": 38,
@@ -7119,7 +7119,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hainault Street",
           "variants": 1,
           "tripCount": 367,
           "stops": 39,
@@ -7148,7 +7148,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "White City Bus Station",
           "variants": 1,
           "tripCount": 866,
           "stops": 45,
@@ -7169,7 +7169,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Denmark Hill /Camberwell Green",
           "variants": 1,
           "tripCount": 868,
           "stops": 39,
@@ -7198,7 +7198,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "London Bridge Bus Station",
           "variants": 1,
           "tripCount": 603,
           "stops": 49,
@@ -7219,7 +7219,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Edmonton Green Bus Station",
           "variants": 1,
           "tripCount": 604,
           "stops": 54,
@@ -7298,7 +7298,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Worcester Park",
           "variants": 1,
           "tripCount": 328,
           "stops": 47,
@@ -7319,7 +7319,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Shotfield",
           "variants": 1,
           "tripCount": 328,
           "stops": 43,
@@ -7348,7 +7348,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Walton Avenue",
           "variants": 1,
           "tripCount": 224,
           "stops": 46,
@@ -7369,7 +7369,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "South Lodge Avenue / Yorkshire Road",
           "variants": 1,
           "tripCount": 224,
           "stops": 42,
@@ -7398,7 +7398,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Liverpool Street Station",
           "variants": 1,
           "tripCount": 210,
           "stops": 33,
@@ -7419,7 +7419,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Finsbury Park Interchange",
           "variants": 1,
           "tripCount": 213,
           "stops": 33,
@@ -7448,7 +7448,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Morden",
           "variants": 1,
           "tripCount": 372,
           "stops": 47,
@@ -7469,7 +7469,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "West Croydon Bus Station",
           "variants": 1,
           "tripCount": 375,
           "stops": 48,
@@ -7548,7 +7548,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Vauxhall Bus Station",
           "variants": 1,
           "tripCount": 755,
           "stops": 38,
@@ -7569,7 +7569,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Wimbledon Station",
           "variants": 1,
           "tripCount": 779,
           "stops": 37,
@@ -7598,7 +7598,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Morden",
           "variants": 1,
           "tripCount": 243,
           "stops": 66,
@@ -7619,7 +7619,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Crystal Palace Parade",
           "variants": 1,
           "tripCount": 252,
           "stops": 64,
@@ -7648,7 +7648,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Stratford Bus Station",
           "variants": 1,
           "tripCount": 437,
           "stops": 44,
@@ -7669,7 +7669,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Chingford Mount",
           "variants": 1,
           "tripCount": 439,
           "stops": 44,
@@ -7848,7 +7848,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Eltham Bus Station",
           "variants": 1,
           "tripCount": 190,
           "stops": 61,
@@ -7869,7 +7869,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Beckenham Junction Station",
           "variants": 1,
           "tripCount": 190,
           "stops": 57,
@@ -7948,7 +7948,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Francis Grove",
           "variants": 1,
           "tripCount": 282,
           "stops": 33,
@@ -8148,7 +8148,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Barking Town Centre",
           "variants": 1,
           "tripCount": 253,
           "stops": 35,
@@ -8169,7 +8169,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Clayhall / The Glade",
           "variants": 1,
           "tripCount": 252,
           "stops": 36,
@@ -8198,7 +8198,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Victoria Station",
           "variants": 1,
           "tripCount": 306,
           "stops": 41,
@@ -8348,7 +8348,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "King George Hospital",
           "variants": 1,
           "tripCount": 251,
           "stops": 40,
@@ -8369,7 +8369,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Beckton Bus Station",
           "variants": 1,
           "tripCount": 253,
           "stops": 39,
@@ -8398,7 +8398,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "C E M E",
           "variants": 1,
           "tripCount": 514,
           "stops": 53,
@@ -8419,7 +8419,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Dagnam Park Square",
           "variants": 1,
           "tripCount": 527,
           "stops": 59,
@@ -8448,7 +8448,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Ballards Road /Princess Parade",
           "variants": 1,
           "tripCount": 367,
           "stops": 38,
@@ -8469,7 +8469,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hillrise Estate",
           "variants": 1,
           "tripCount": 382,
           "stops": 39,
@@ -8548,7 +8548,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Peckham Bus Station",
           "variants": 1,
           "tripCount": 306,
           "stops": 61,
@@ -8569,7 +8569,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Thamesmead Town Centre",
           "variants": 1,
           "tripCount": 309,
           "stops": 65,
@@ -8598,7 +8598,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Lewisham Station",
           "variants": 1,
           "tripCount": 170,
           "stops": 35,
@@ -8619,7 +8619,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Thomas Street",
           "variants": 1,
           "tripCount": 170,
           "stops": 33,
@@ -8748,7 +8748,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Grove Park Station",
           "variants": 1,
           "tripCount": 241,
           "stops": 38,
@@ -8769,7 +8769,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Lewisham Station",
           "variants": 1,
           "tripCount": 240,
           "stops": 39,
@@ -8798,7 +8798,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Brent Cross Shopping Centre",
           "variants": 1,
           "tripCount": 435,
           "stops": 49,
@@ -8819,7 +8819,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Bannister Playing Fields",
           "variants": 1,
           "tripCount": 445,
           "stops": 49,
@@ -8848,7 +8848,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Pinner Station / Bridge Street",
           "variants": 1,
           "tripCount": 421,
           "stops": 52,
@@ -8948,7 +8948,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Victoria Station",
           "variants": 1,
           "tripCount": 338,
           "stops": 57,
@@ -8969,7 +8969,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Lewisham Station",
           "variants": 1,
           "tripCount": 339,
           "stops": 55,
@@ -8998,7 +8998,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Brent Cross Shopping Centre",
           "variants": 1,
           "tripCount": 342,
           "stops": 56,
@@ -9019,7 +9019,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Northwick Park Hosp Social Club",
           "variants": 1,
           "tripCount": 348,
           "stops": 53,
@@ -9048,7 +9048,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "02 Centre / Sainsbury's",
           "variants": 1,
           "tripCount": 195,
           "stops": 43,
@@ -9069,7 +9069,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Central Middlesex Hospital",
           "variants": 1,
           "tripCount": 199,
           "stops": 41,
@@ -9198,7 +9198,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Empress State Building / West Brompton",
           "variants": 1,
           "tripCount": 260,
           "stops": 34,
@@ -9219,7 +9219,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Richmond Bus Station",
           "variants": 1,
           "tripCount": 267,
           "stops": 31,
@@ -9248,7 +9248,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Brimsdown Station",
           "variants": 1,
           "tripCount": 343,
           "stops": 51,
@@ -9269,7 +9269,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Edmonton Green Bus Station",
           "variants": 1,
           "tripCount": 351,
           "stops": 49,
@@ -9348,7 +9348,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Essex Gardens",
           "variants": 1,
           "tripCount": 214,
           "stops": 32,
@@ -9369,7 +9369,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Queens Hospital",
           "variants": 1,
           "tripCount": 213,
           "stops": 30,
@@ -9398,7 +9398,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "West Croydon Bus Station",
           "variants": 1,
           "tripCount": 232,
           "stops": 59,
@@ -9419,7 +9419,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Bell Green / Sainsbury's",
           "variants": 1,
           "tripCount": 230,
           "stops": 63,
@@ -9498,7 +9498,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Norwood Junction Station",
           "variants": 1,
           "tripCount": 308,
           "stops": 54,
@@ -9548,7 +9548,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Fairfield Halls",
           "variants": 1,
           "tripCount": 218,
           "stops": 53,
@@ -9569,7 +9569,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Peckham Bus Station",
           "variants": 1,
           "tripCount": 215,
           "stops": 55,
@@ -9648,7 +9648,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Catford Garage",
           "variants": 1,
           "tripCount": 340,
           "stops": 40,
@@ -9669,7 +9669,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Canada Water Bus Station",
           "variants": 1,
           "tripCount": 338,
           "stops": 36,
@@ -9698,7 +9698,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Mitcham Fair Green",
           "variants": 1,
           "tripCount": 312,
           "stops": 34,
@@ -9719,7 +9719,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Lambton Road",
           "variants": 1,
           "tripCount": 313,
           "stops": 36,
@@ -9748,7 +9748,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Dulwich Road",
           "variants": 1,
           "tripCount": 171,
           "stops": 45,
@@ -9769,7 +9769,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "London Road / Morden Station",
           "variants": 1,
           "tripCount": 171,
           "stops": 42,
@@ -9948,7 +9948,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Bow Church",
           "variants": 1,
           "tripCount": 382,
           "stops": 44,
@@ -9969,7 +9969,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Marble Arch",
           "variants": 1,
           "tripCount": 396,
           "stops": 47,
@@ -9998,7 +9998,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Kilburn Park Station",
           "variants": 1,
           "tripCount": 279,
           "stops": 39,
@@ -10019,7 +10019,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "The Paddocks",
           "variants": 1,
           "tripCount": 282,
           "stops": 40,
@@ -10048,7 +10048,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "White City Bus Station",
           "variants": 1,
           "tripCount": 1051,
           "stops": 44,
@@ -10069,7 +10069,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hayes By-Pass",
           "variants": 1,
           "tripCount": 1001,
           "stops": 48,
@@ -10169,7 +10169,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Barnes Pond",
           "variants": 1,
           "tripCount": 240,
           "stops": 26,
@@ -10298,7 +10298,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "St James Street Station",
           "variants": 1,
           "tripCount": 407,
           "stops": 41,
@@ -10319,7 +10319,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Chingford Station",
           "variants": 1,
           "tripCount": 402,
           "stops": 37,
@@ -10369,7 +10369,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Fairfield Bus Station",
           "variants": 1,
           "tripCount": 415,
           "stops": 45,
@@ -10398,7 +10398,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Finsbury Square",
           "variants": 1,
           "tripCount": 547,
           "stops": 35,
@@ -10419,7 +10419,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Highgate School",
           "variants": 1,
           "tripCount": 545,
           "stops": 32,
@@ -10598,7 +10598,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "North Acton Station",
           "variants": 1,
           "tripCount": 266,
           "stops": 32,
@@ -10619,7 +10619,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hammersmith Bus Station",
           "variants": 1,
           "tripCount": 278,
           "stops": 35,
@@ -10648,7 +10648,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Falcon Lane",
           "variants": 1,
           "tripCount": 231,
           "stops": 33,
@@ -10698,7 +10698,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Mapleton Crescent",
           "variants": 1,
           "tripCount": 508,
           "stops": 42,
@@ -10719,7 +10719,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Willesden Junction Station",
           "variants": 1,
           "tripCount": 506,
           "stops": 39,
@@ -10898,7 +10898,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Mitchell Way",
           "variants": 1,
           "tripCount": 147,
           "stops": 36,
@@ -10919,7 +10919,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Alperton Sainsbury's",
           "variants": 1,
           "tripCount": 142,
           "stops": 35,
@@ -11148,7 +11148,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Queen Mary's Hospital / Chislehurst Road",
           "variants": 1,
           "tripCount": 518,
           "stops": 60,
@@ -11169,7 +11169,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Thamesmead Town Centre",
           "variants": 1,
           "tripCount": 529,
           "stops": 65,
@@ -11198,7 +11198,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Wood Green Station",
           "variants": 1,
           "tripCount": 462,
           "stops": 37,
@@ -11219,7 +11219,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Fyfield Road (E17)",
           "variants": 1,
           "tripCount": 462,
           "stops": 38,
@@ -11398,7 +11398,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Archway Station",
           "variants": 1,
           "tripCount": 216,
           "stops": 48,
@@ -11419,7 +11419,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "The Spires",
           "variants": 1,
           "tripCount": 216,
           "stops": 49,
@@ -11498,7 +11498,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Hackney Wick",
           "variants": 1,
           "tripCount": 413,
           "stops": 40,
@@ -11519,7 +11519,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Finsbury Park Interchange",
           "variants": 1,
           "tripCount": 410,
           "stops": 39,
@@ -11748,7 +11748,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Aldgate",
           "variants": 1,
           "tripCount": 414,
           "stops": 35,
@@ -11848,7 +11848,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Abbey Wood Road",
           "variants": 1,
           "tripCount": 259,
           "stops": 42,
@@ -11869,7 +11869,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Queen Elizabeth Hospital / West Entrance",
           "variants": 1,
           "tripCount": 255,
           "stops": 44,
@@ -11998,7 +11998,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Moor Lane Cranham",
           "variants": 1,
           "tripCount": 671,
           "stops": 37,
@@ -12019,7 +12019,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Romford Market",
           "variants": 1,
           "tripCount": 664,
           "stops": 33,
@@ -12098,7 +12098,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "West Croydon Bus Station",
           "variants": 1,
           "tripCount": 477,
           "stops": 44,
@@ -12119,7 +12119,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Brixton Station",
           "variants": 1,
           "tripCount": 483,
           "stops": 42,
@@ -12198,7 +12198,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Hornchurch Town Centre",
           "variants": 1,
           "tripCount": 257,
           "stops": 43,
@@ -12219,7 +12219,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "White Hart Lane (RM7)",
           "variants": 1,
           "tripCount": 258,
           "stops": 41,
@@ -12248,7 +12248,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Mornington Crescent",
           "variants": 1,
           "tripCount": 531,
           "stops": 43,
@@ -12269,7 +12269,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hackney Central Station",
           "variants": 1,
           "tripCount": 538,
           "stops": 38,
@@ -12298,7 +12298,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Caledonian Road",
           "variants": 1,
           "tripCount": 530,
           "stops": 49,
@@ -12319,7 +12319,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Aldgate",
           "variants": 1,
           "tripCount": 536,
           "stops": 45,
@@ -12348,7 +12348,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Balham Station",
           "variants": 1,
           "tripCount": 314,
           "stops": 33,
@@ -12369,7 +12369,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "South Lodge Avenue / Yorkshire Road",
           "variants": 1,
           "tripCount": 314,
           "stops": 29,
@@ -12398,7 +12398,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Wincanton Road Noak Hill",
           "variants": 1,
           "tripCount": 241,
           "stops": 39,
@@ -12419,7 +12419,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "St George's Park",
           "variants": 1,
           "tripCount": 240,
           "stops": 34,
@@ -12448,7 +12448,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Walthamstow Bus Station",
           "variants": 1,
           "tripCount": 515,
           "stops": 28,
@@ -12469,7 +12469,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Stratford Bus Station",
           "variants": 1,
           "tripCount": 516,
           "stops": 30,
@@ -12648,7 +12648,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Princess Royal University Hosp",
           "variants": 1,
           "tripCount": 367,
           "stops": 40,
@@ -12669,7 +12669,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Lewisham Station",
           "variants": 1,
           "tripCount": 371,
           "stops": 44,
@@ -12698,7 +12698,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Stratford Bus Station",
           "variants": 1,
           "tripCount": 252,
           "stops": 29,
@@ -12798,7 +12798,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "St George's Hospital",
           "variants": 1,
           "tripCount": 381,
           "stops": 35,
@@ -12819,7 +12819,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "West Croydon Bus Station",
           "variants": 1,
           "tripCount": 383,
           "stops": 30,
@@ -12848,7 +12848,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Tolworth / King Charles Road",
           "variants": 1,
           "tripCount": 214,
           "stops": 50,
@@ -12869,7 +12869,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Putney Bridge Station",
           "variants": 1,
           "tripCount": 210,
           "stops": 43,
@@ -12998,7 +12998,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "02 Centre / Sainsbury's",
           "variants": 1,
           "tripCount": 170,
           "stops": 19,
@@ -13019,7 +13019,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Golders Green Station",
           "variants": 1,
           "tripCount": 176,
           "stops": 17,
@@ -13098,7 +13098,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Madeira Road",
           "variants": 1,
           "tripCount": 416,
           "stops": 35,
@@ -13119,7 +13119,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Putney Bridge Station",
           "variants": 1,
           "tripCount": 412,
           "stops": 36,
@@ -13148,7 +13148,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Shepherd's Bush (Central Line)",
           "variants": 1,
           "tripCount": 210,
           "stops": 31,
@@ -13169,7 +13169,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Cavendish Road (W4)",
           "variants": 1,
           "tripCount": 211,
           "stops": 29,
@@ -13198,7 +13198,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Station Square / Petts Wood Station",
           "variants": 1,
           "tripCount": 135,
           "stops": 56,
@@ -13248,7 +13248,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Lancaster Gate Station",
           "variants": 1,
           "tripCount": 548,
           "stops": 40,
@@ -13348,7 +13348,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Stoke Newington Common",
           "variants": 1,
           "tripCount": 492,
           "stops": 64,
@@ -13369,7 +13369,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Gateway Surgical Centre",
           "variants": 1,
           "tripCount": 494,
           "stops": 57,
@@ -13598,7 +13598,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Tolworth Station",
           "variants": 1,
           "tripCount": 461,
           "stops": 58,
@@ -13619,7 +13619,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hounslow Bus Station",
           "variants": 1,
           "tripCount": 452,
           "stops": 61,
@@ -13748,7 +13748,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Cromwell Road Bus Station",
           "variants": 1,
           "tripCount": 592,
           "stops": 54,
@@ -13769,7 +13769,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Heathrow Central Bus Station",
           "variants": 1,
           "tripCount": 592,
           "stops": 51,
@@ -13798,7 +13798,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Greenwich Town Cen/ Cutty Sark",
           "variants": 1,
           "tripCount": 189,
           "stops": 47,
@@ -13819,7 +13819,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Queen Mary's Hospital / Frognal Avenue",
           "variants": 1,
           "tripCount": 191,
           "stops": 45,
@@ -13948,7 +13948,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Purley Station",
           "variants": 1,
           "tripCount": 244,
           "stops": 46,
@@ -13969,7 +13969,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Elmers End Interchange",
           "variants": 1,
           "tripCount": 241,
           "stops": 47,
@@ -14198,7 +14198,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Wincanton Road Noak Hill",
           "variants": 1,
           "tripCount": 190,
           "stops": 48,
@@ -14219,7 +14219,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Havering Park",
           "variants": 1,
           "tripCount": 189,
           "stops": 50,
@@ -14248,7 +14248,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Clapham Junction Station / The Falcon",
           "variants": 1,
           "tripCount": 338,
           "stops": 45,
@@ -14269,7 +14269,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Kensal House",
           "variants": 1,
           "tripCount": 336,
           "stops": 42,
@@ -14298,7 +14298,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Roden Street",
           "variants": 1,
           "tripCount": 227,
           "stops": 30,
@@ -14319,7 +14319,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Romford Station",
           "variants": 1,
           "tripCount": 218,
           "stops": 32,
@@ -14348,7 +14348,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Ealing Broadway Station / Haven Green",
           "variants": 1,
           "tripCount": 389,
           "stops": 43,
@@ -14369,7 +14369,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Meyrick Road",
           "variants": 1,
           "tripCount": 385,
           "stops": 45,
@@ -14448,7 +14448,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Cockfosters Station",
           "variants": 1,
           "tripCount": 172,
           "stops": 30,
@@ -14469,7 +14469,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Muswell Hill",
           "variants": 1,
           "tripCount": 174,
           "stops": 28,
@@ -14498,7 +14498,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Canning Town",
           "variants": 1,
           "tripCount": 192,
           "stops": 47,
@@ -14519,7 +14519,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Wordsworth Health Centre",
           "variants": 1,
           "tripCount": 195,
           "stops": 42,
@@ -14548,7 +14548,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Beresford Sq /Woolwich Arsenal",
           "variants": 1,
           "tripCount": 257,
           "stops": 39,
@@ -14569,7 +14569,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Market Place Bexleyheath",
           "variants": 1,
           "tripCount": 251,
           "stops": 40,
@@ -14698,7 +14698,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Manor Park / Gladding Road",
           "variants": 1,
           "tripCount": 266,
           "stops": 29,
@@ -14719,7 +14719,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Custom House Station",
           "variants": 1,
           "tripCount": 263,
           "stops": 32,
@@ -14848,7 +14848,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Lea Bridge Roundabout",
           "variants": 1,
           "tripCount": 213,
           "stops": 39,
@@ -14998,7 +14998,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Norwood Junction Station",
           "variants": 1,
           "tripCount": 326,
           "stops": 39,
@@ -15019,7 +15019,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Old Lodge Lane Bus Terminus",
           "variants": 1,
           "tripCount": 328,
           "stops": 43,
@@ -15198,7 +15198,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "White City Bus Station",
           "variants": 1,
           "tripCount": 325,
           "stops": 41,
@@ -15219,7 +15219,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Brent Cross West Station",
           "variants": 1,
           "tripCount": 326,
           "stops": 41,
@@ -15248,7 +15248,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Little Park Gardens",
           "variants": 1,
           "tripCount": 143,
           "stops": 22,
@@ -15298,7 +15298,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Rookwood Road",
           "variants": 1,
           "tripCount": 227,
           "stops": 28,
@@ -15319,7 +15319,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "North Middlesex Hospital",
           "variants": 1,
           "tripCount": 218,
           "stops": 32,
@@ -15398,7 +15398,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Catford Bridge",
           "variants": 1,
           "tripCount": 203,
           "stops": 51,
@@ -15419,7 +15419,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Biggin Hill Valley",
           "variants": 1,
           "tripCount": 202,
           "stops": 53,
@@ -15448,7 +15448,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "New Cross Gate Sainsbury's",
           "variants": 1,
           "tripCount": 439,
           "stops": 53,
@@ -15498,7 +15498,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "The Pavement",
           "variants": 1,
           "tripCount": 202,
           "stops": 36,
@@ -15519,7 +15519,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Crystal Palace Parade",
           "variants": 1,
           "tripCount": 199,
           "stops": 34,
@@ -15548,7 +15548,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Mile End",
           "variants": 1,
           "tripCount": 418,
           "stops": 13,
@@ -15569,7 +15569,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Canning Town",
           "variants": 1,
           "tripCount": 423,
           "stops": 14,
@@ -15598,7 +15598,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Tesco Brent Cross",
           "variants": 1,
           "tripCount": 149,
           "stops": 47,
@@ -15619,7 +15619,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Roundabout",
           "variants": 1,
           "tripCount": 151,
           "stops": 48,
@@ -15648,7 +15648,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Prince Regent Bus Station",
           "variants": 1,
           "tripCount": 222,
           "stops": 43,
@@ -15948,7 +15948,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Belmont Road",
           "variants": 1,
           "tripCount": 129,
           "stops": 50,
@@ -15969,7 +15969,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Ruislip",
           "variants": 1,
           "tripCount": 130,
           "stops": 49,
@@ -16048,7 +16048,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "North Greenwich Station",
           "variants": 1,
           "tripCount": 524,
           "stops": 22,
@@ -16069,7 +16069,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Wingfield School",
           "variants": 1,
           "tripCount": 522,
           "stops": 22,
@@ -16098,7 +16098,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Locksbottom / Pallant Way",
           "variants": 1,
           "tripCount": 263,
           "stops": 55,
@@ -16119,7 +16119,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Catford Bridge",
           "variants": 1,
           "tripCount": 263,
           "stops": 56,
@@ -16148,7 +16148,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Richmond Bus Station",
           "variants": 1,
           "tripCount": 335,
           "stops": 34,
@@ -16169,7 +16169,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Bolingbroke Grove",
           "variants": 1,
           "tripCount": 333,
           "stops": 35,
@@ -16198,7 +16198,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Shadwell DLR",
           "variants": 1,
           "tripCount": 167,
           "stops": 39,
@@ -16219,7 +16219,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Leytonstone Station / Grove Green Road",
           "variants": 1,
           "tripCount": 165,
           "stops": 40,
@@ -16348,7 +16348,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "New Cross / Jerningham Road",
           "variants": 1,
           "tripCount": 470,
           "stops": 41,
@@ -16369,7 +16369,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Tower Gateway Station DLR",
           "variants": 1,
           "tripCount": 471,
           "stops": 43,
@@ -16398,7 +16398,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Liverpool Street Station",
           "variants": 1,
           "tripCount": 545,
           "stops": 40,
@@ -16419,7 +16419,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Clapham Junction Station",
           "variants": 1,
           "tripCount": 546,
           "stops": 37,
@@ -16448,7 +16448,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Natural History Museum /Cromwell Road",
           "variants": 1,
           "tripCount": 497,
           "stops": 51,
@@ -16469,7 +16469,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Peckham Bus Station",
           "variants": 1,
           "tripCount": 491,
           "stops": 53,
@@ -16598,7 +16598,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Bell Green / Sainsbury's",
           "variants": 1,
           "tripCount": 186,
           "stops": 43,
@@ -16619,7 +16619,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Bromley North Station",
           "variants": 1,
           "tripCount": 188,
           "stops": 46,
@@ -16698,7 +16698,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Bromley North Station",
           "variants": 1,
           "tripCount": 139,
           "stops": 37,
@@ -16719,7 +16719,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "High Street / Maple Road",
           "variants": 1,
           "tripCount": 136,
           "stops": 39,
@@ -16748,7 +16748,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Brixton Station",
           "variants": 1,
           "tripCount": 250,
           "stops": 38,
@@ -16769,7 +16769,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Madeira Road",
           "variants": 1,
           "tripCount": 252,
           "stops": 37,
@@ -16848,7 +16848,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Whipps Cross Bus Stand",
           "variants": 1,
           "tripCount": 191,
           "stops": 30,
@@ -16869,7 +16869,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hatch Lane",
           "variants": 1,
           "tripCount": 190,
           "stops": 26,
@@ -16898,7 +16898,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Crystal Palace Parade",
           "variants": 1,
           "tripCount": 457,
           "stops": 78,
@@ -16919,7 +16919,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Orpington Station",
           "variants": 1,
           "tripCount": 468,
           "stops": 76,
@@ -16948,7 +16948,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Addington Village Interchange",
           "variants": 1,
           "tripCount": 54,
           "stops": 33,
@@ -16969,7 +16969,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Purley High Street",
           "variants": 1,
           "tripCount": 54,
           "stops": 31,
@@ -16998,7 +16998,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Prince Consort Road / Imperial College",
           "variants": 1,
           "tripCount": 239,
           "stops": 32,
@@ -17048,7 +17048,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "King George Hospital",
           "variants": 1,
           "tripCount": 100,
           "stops": 32,
@@ -17069,7 +17069,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Manor Road / Grange Hill Station",
           "variants": 1,
           "tripCount": 101,
           "stops": 30,
@@ -17148,7 +17148,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Ballards Road",
           "variants": 1,
           "tripCount": 632,
           "stops": 35,
@@ -17169,7 +17169,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hainault Street",
           "variants": 1,
           "tripCount": 620,
           "stops": 33,
@@ -17198,7 +17198,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Havering Park",
           "variants": 1,
           "tripCount": 260,
           "stops": 44,
@@ -17219,7 +17219,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "South Street",
           "variants": 1,
           "tripCount": 262,
           "stops": 46,
@@ -17248,7 +17248,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Beckton Bus Station",
           "variants": 1,
           "tripCount": 266,
           "stops": 48,
@@ -17269,7 +17269,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Falmouth Gardens",
           "variants": 1,
           "tripCount": 268,
           "stops": 53,
@@ -17298,7 +17298,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Bromley North Station",
           "variants": 1,
           "tripCount": 192,
           "stops": 63,
@@ -17319,7 +17319,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Delta Point / West Croydon Station",
           "variants": 1,
           "tripCount": 192,
           "stops": 61,
@@ -17348,7 +17348,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Harts Lane Estate",
           "variants": 1,
           "tripCount": 218,
           "stops": 31,
@@ -17369,7 +17369,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Wangey Road",
           "variants": 1,
           "tripCount": 216,
           "stops": 28,
@@ -17448,7 +17448,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Kingston Hall Road",
           "variants": 1,
           "tripCount": 366,
           "stops": 41,
@@ -17469,7 +17469,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Manor Road / Sainsburys",
           "variants": 1,
           "tripCount": 369,
           "stops": 39,
@@ -17648,7 +17648,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Oakwood Station",
           "variants": 1,
           "tripCount": 62,
           "stops": 32,
@@ -17669,7 +17669,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Glyn Road (EN3)",
           "variants": 1,
           "tripCount": 64,
           "stops": 36,
@@ -17748,7 +17748,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Yardley Lane Estate",
           "variants": 1,
           "tripCount": 149,
           "stops": 13,
@@ -17769,7 +17769,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Chingford Station",
           "variants": 1,
           "tripCount": 149,
           "stops": 16,
@@ -17798,7 +17798,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Molesworth Street",
           "variants": 1,
           "tripCount": 249,
           "stops": 47,
@@ -17819,7 +17819,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Belmarsh Prison / Woolwich Crown Court",
           "variants": 1,
           "tripCount": 243,
           "stops": 49,
@@ -17848,7 +17848,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "County Hall",
           "variants": 1,
           "tripCount": 365,
           "stops": 52,
@@ -17869,7 +17869,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Peckham Bus Station",
           "variants": 1,
           "tripCount": 365,
           "stops": 52,
@@ -17998,7 +17998,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Cockfosters Station",
           "variants": 1,
           "tripCount": 245,
           "stops": 50,
@@ -18019,7 +18019,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Edgware Station",
           "variants": 1,
           "tripCount": 242,
           "stops": 47,
@@ -18098,7 +18098,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Royal Parade (SE3)",
           "variants": 1,
           "tripCount": 227,
           "stops": 54,
@@ -18119,7 +18119,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Woolwich Arsenal Station",
           "variants": 1,
           "tripCount": 231,
           "stops": 48,
@@ -18148,7 +18148,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "London Bridge Bus Station",
           "variants": 1,
           "tripCount": 279,
           "stops": 28,
@@ -18169,7 +18169,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Stratford City Bus Station",
           "variants": 1,
           "tripCount": 285,
           "stops": 29,
@@ -18248,7 +18248,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Victoria Bus Station",
           "variants": 1,
           "tripCount": 472,
           "stops": 37,
@@ -18348,7 +18348,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Tolpuddle St / Islington Police Stn",
           "variants": 1,
           "tripCount": 211,
           "stops": 31,
@@ -18398,7 +18398,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Westway Cross Retail Park",
           "variants": 1,
           "tripCount": 138,
           "stops": 31,
@@ -18419,7 +18419,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Harrow Bus Station",
           "variants": 1,
           "tripCount": 144,
           "stops": 27,
@@ -18448,7 +18448,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Roden Street",
           "variants": 1,
           "tripCount": 149,
           "stops": 19,
@@ -18469,7 +18469,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "King George Hospital",
           "variants": 1,
           "tripCount": 152,
           "stops": 21,
@@ -18598,7 +18598,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Hemery Road",
           "variants": 1,
           "tripCount": 110,
           "stops": 29,
@@ -18619,7 +18619,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Ruislip",
           "variants": 1,
           "tripCount": 111,
           "stops": 30,
@@ -18698,7 +18698,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Bexleyheath Clock Tower",
           "variants": 1,
           "tripCount": 233,
           "stops": 33,
@@ -19048,7 +19048,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Shotfield",
           "variants": 1,
           "tripCount": 546,
           "stops": 48,
@@ -19069,7 +19069,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Crystal Palace Parade",
           "variants": 1,
           "tripCount": 551,
           "stops": 49,
@@ -19148,7 +19148,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Park Street",
           "variants": 1,
           "tripCount": 306,
           "stops": 33,
@@ -19169,7 +19169,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Purley High Street",
           "variants": 1,
           "tripCount": 302,
           "stops": 34,
@@ -19198,7 +19198,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Morden",
           "variants": 1,
           "tripCount": 170,
           "stops": 29,
@@ -19219,7 +19219,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Sutton Bus Garage",
           "variants": 1,
           "tripCount": 167,
           "stops": 25,
@@ -19298,7 +19298,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Clapham Old Town / Omnibus",
           "variants": 1,
           "tripCount": 567,
           "stops": 34,
@@ -19319,7 +19319,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Crystal Palace Parade",
           "variants": 1,
           "tripCount": 568,
           "stops": 31,
@@ -19398,7 +19398,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Norley Vale",
           "variants": 1,
           "tripCount": 252,
           "stops": 33,
@@ -19419,7 +19419,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Richmond Bus Station",
           "variants": 1,
           "tripCount": 254,
           "stops": 35,
@@ -19498,7 +19498,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Bexleyheath Clock Tower",
           "variants": 1,
           "tripCount": 432,
           "stops": 53,
@@ -19519,7 +19519,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "North Greenwich Station",
           "variants": 1,
           "tripCount": 433,
           "stops": 53,
@@ -19598,7 +19598,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Stevenage Road / Fulham Football Club",
           "variants": 1,
           "tripCount": 48,
           "stops": 28,
@@ -19619,7 +19619,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Putney Heath / Green Man",
           "variants": 1,
           "tripCount": 46,
           "stops": 27,
@@ -19669,7 +19669,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hainault Street",
           "variants": 1,
           "tripCount": 411,
           "stops": 51,
@@ -19948,7 +19948,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Park Street",
           "variants": 1,
           "tripCount": 218,
           "stops": 33,
@@ -19969,7 +19969,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Addington Village Interchange",
           "variants": 1,
           "tripCount": 219,
           "stops": 33,
@@ -20148,7 +20148,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "First Way",
           "variants": 1,
           "tripCount": 209,
           "stops": 47,
@@ -20169,7 +20169,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Turnham Green Church",
           "variants": 1,
           "tripCount": 219,
           "stops": 44,
@@ -20348,7 +20348,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Bell Green / Sainsbury's",
           "variants": 1,
           "tripCount": 264,
           "stops": 46,
@@ -20369,7 +20369,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "West Croydon Bus Station",
           "variants": 1,
           "tripCount": 268,
           "stops": 49,
@@ -20398,7 +20398,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Vauxhall Bus Station",
           "variants": 1,
           "tripCount": 365,
           "stops": 34,
@@ -20419,7 +20419,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Notting Hill Gate Station",
           "variants": 1,
           "tripCount": 360,
           "stops": 35,
@@ -20448,7 +20448,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Great Central Street",
           "variants": 1,
           "tripCount": 559,
           "stops": 38,
@@ -20469,7 +20469,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Deptford Bridge",
           "variants": 1,
           "tripCount": 551,
           "stops": 38,
@@ -20748,7 +20748,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Pollards Hill",
           "variants": 1,
           "tripCount": 144,
           "stops": 63,
@@ -20769,7 +20769,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Coulsdon South",
           "variants": 1,
           "tripCount": 143,
           "stops": 64,
@@ -21048,7 +21048,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Erith Town Centre / Riverside",
           "variants": 1,
           "tripCount": 212,
           "stops": 51,
@@ -21098,7 +21098,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Sutton Station",
           "variants": 1,
           "tripCount": 58,
           "stops": 28,
@@ -21119,7 +21119,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Colliers Wood Station",
           "variants": 1,
           "tripCount": 60,
           "stops": 25,
@@ -21148,7 +21148,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Stratford Bus Station",
           "variants": 1,
           "tripCount": 279,
           "stops": 27,
@@ -21198,7 +21198,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Manor Park Station",
           "variants": 1,
           "tripCount": 782,
           "stops": 50,
@@ -21219,7 +21219,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hermit Road",
           "variants": 1,
           "tripCount": 782,
           "stops": 52,
@@ -21398,7 +21398,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Heathrow Terminal 5",
           "variants": 1,
           "tripCount": 175,
           "stops": 32,
@@ -21419,7 +21419,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hamilton Road / Southall",
           "variants": 1,
           "tripCount": 174,
           "stops": 31,
@@ -21448,7 +21448,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Harrow Bus Station",
           "variants": 1,
           "tripCount": 396,
           "stops": 46,
@@ -21469,7 +21469,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Three Bridges / Windmill Lane",
           "variants": 1,
           "tripCount": 408,
           "stops": 45,
@@ -21548,7 +21548,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Ram Street",
           "variants": 1,
           "tripCount": 108,
           "stops": 20,
@@ -21569,7 +21569,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Mortlake Bus Station",
           "variants": 1,
           "tripCount": 108,
           "stops": 20,
@@ -21598,7 +21598,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Friswell Place",
           "variants": 1,
           "tripCount": 389,
           "stops": 38,
@@ -21619,7 +21619,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "North Greenwich Station",
           "variants": 1,
           "tripCount": 391,
           "stops": 38,
@@ -21648,7 +21648,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Willesden Junction Station",
           "variants": 1,
           "tripCount": 207,
           "stops": 37,
@@ -21669,7 +21669,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "South Harrow Bus Station",
           "variants": 1,
           "tripCount": 210,
           "stops": 43,
@@ -21698,7 +21698,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Forest Road / Kingsland Road",
           "variants": 1,
           "tripCount": 205,
           "stops": 37,
@@ -21719,7 +21719,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hancock Road",
           "variants": 1,
           "tripCount": 205,
           "stops": 33,
@@ -21898,7 +21898,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Richmond Bus Station",
           "variants": 1,
           "tripCount": 205,
           "stops": 64,
@@ -21919,7 +21919,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "St George's / University of London",
           "variants": 1,
           "tripCount": 204,
           "stops": 55,
@@ -21948,7 +21948,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Queens Hospital",
           "variants": 1,
           "tripCount": 186,
           "stops": 41,
@@ -21969,7 +21969,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Harold Wood Station",
           "variants": 1,
           "tripCount": 187,
           "stops": 41,
@@ -22448,7 +22448,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Townley Grammar School",
           "variants": 1,
           "tripCount": 10,
           "stops": 40,
@@ -22469,7 +22469,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Thamesmead Town Centre",
           "variants": 1,
           "tripCount": 10,
           "stops": 44,
@@ -22498,7 +22498,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Swiss Cottage Station",
           "variants": 1,
           "tripCount": 4,
           "stops": 32,
@@ -22519,7 +22519,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Muswell Hill",
           "variants": 1,
           "tripCount": 4,
           "stops": 28,
@@ -22648,7 +22648,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "The Holt",
           "variants": 1,
           "tripCount": 2,
           "stops": 32,
@@ -22669,7 +22669,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Farley Road",
           "variants": 1,
           "tripCount": 2,
           "stops": 34,
@@ -22798,7 +22798,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Edmonton Green Bus Station",
           "variants": 1,
           "tripCount": 10,
           "stops": 30,
@@ -22819,7 +22819,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Old Park Ridings",
           "variants": 1,
           "tripCount": 10,
           "stops": 32,
@@ -22948,7 +22948,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Leigh Stationers' Academy",
           "variants": 1,
           "tripCount": 5,
           "stops": 26,
@@ -22969,7 +22969,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Lewisham Station",
           "variants": 1,
           "tripCount": 5,
           "stops": 27,
@@ -22998,7 +22998,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Welling Library",
           "variants": 1,
           "tripCount": 10,
           "stops": 34,
@@ -23019,7 +23019,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Grove Park Station",
           "variants": 1,
           "tripCount": 5,
           "stops": 23,
@@ -23098,7 +23098,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Dame Alice Owen's School",
           "variants": 1,
           "tripCount": 4,
           "stops": 40,
@@ -23119,7 +23119,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Finchley Central Station",
           "variants": 1,
           "tripCount": 4,
           "stops": 39,
@@ -23327,7 +23327,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Kilburn Park Station",
           "variants": 1,
           "tripCount": 9,
           "stops": 35,
@@ -23348,7 +23348,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Saracens High School / South Mead",
           "variants": 1,
           "tripCount": 9,
           "stops": 34,
@@ -23527,7 +23527,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Kemnal Technology College",
           "variants": 1,
           "tripCount": 5,
           "stops": 47,
@@ -23548,7 +23548,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Glebe Way",
           "variants": 1,
           "tripCount": 5,
           "stops": 44,
@@ -23677,7 +23677,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "London Academy",
           "variants": 1,
           "tripCount": 25,
           "stops": 34,
@@ -23698,7 +23698,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "West Hendon Bdwy/Herbert Road",
           "variants": 1,
           "tripCount": 15,
           "stops": 29,
@@ -23727,7 +23727,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Christ's College",
           "variants": 1,
           "tripCount": 2,
           "stops": 19,
@@ -23748,7 +23748,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Brent Cross Shopping Centre",
           "variants": 1,
           "tripCount": 2,
           "stops": 22,
@@ -23927,7 +23927,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "The Campion School",
           "variants": 1,
           "tripCount": 3,
           "stops": 21,
@@ -23948,7 +23948,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Cedar Road (RM5)",
           "variants": 1,
           "tripCount": 3,
           "stops": 21,
@@ -23977,7 +23977,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Emerson Park Academy",
           "variants": 1,
           "tripCount": 4,
           "stops": 20,
@@ -23998,7 +23998,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Cedar Road (RM5)",
           "variants": 1,
           "tripCount": 5,
           "stops": 19,
@@ -24027,7 +24027,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Chase Cross",
           "variants": 1,
           "tripCount": 1,
           "stops": 30,
@@ -24048,7 +24048,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Romford Station",
           "variants": 1,
           "tripCount": 1,
           "stops": 30,
@@ -24177,7 +24177,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Gallows Corner / Tesco",
           "variants": 1,
           "tripCount": 9,
           "stops": 25,
@@ -24198,7 +24198,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Emerson Park Academy",
           "variants": 1,
           "tripCount": 6,
           "stops": 26,
@@ -24277,7 +24277,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Beresford Sq /Woolwich Arsenal",
           "variants": 1,
           "tripCount": 9,
           "stops": 33,
@@ -24298,7 +24298,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Bexley Road / Reinickendorf Avenue",
           "variants": 1,
           "tripCount": 15,
           "stops": 31,
@@ -24327,7 +24327,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Leigh Stationers' Academy",
           "variants": 1,
           "tripCount": 5,
           "stops": 26,
@@ -24348,7 +24348,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Catford Garage",
           "variants": 1,
           "tripCount": 5,
           "stops": 29,
@@ -24377,7 +24377,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Centre Common Road /War Memorial",
           "variants": 1,
           "tripCount": 5,
           "stops": 21,
@@ -24398,7 +24398,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Station Square / Petts Wood Station",
           "variants": 1,
           "tripCount": 5,
           "stops": 22,
@@ -24627,7 +24627,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Club House",
           "variants": 1,
           "tripCount": 15,
           "stops": 25,
@@ -24648,7 +24648,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hainault Street",
           "variants": 1,
           "tripCount": 15,
           "stops": 30,
@@ -24698,7 +24698,7 @@
         },
         {
           "dir": "1",
-          "headsign": "North Cheam  Queen Victoria",
+          "headsign": "North Cheam Queen Victoria",
           "variants": 1,
           "tripCount": 1,
           "stops": 40,
@@ -24827,7 +24827,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Chessington South",
           "variants": 1,
           "tripCount": 1,
           "stops": 38,
@@ -24848,7 +24848,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Tiffin School For Girls",
           "variants": 1,
           "tripCount": 1,
           "stops": 35,
@@ -24877,7 +24877,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Beresford Sq /Woolwich Arsenal",
           "variants": 1,
           "tripCount": 20,
           "stops": 10,
@@ -24898,7 +24898,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hawksmoor School",
           "variants": 1,
           "tripCount": 5,
           "stops": 9,
@@ -24977,7 +24977,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Broadmead Road (IG8)",
           "variants": 1,
           "tripCount": 2,
           "stops": 45,
@@ -24998,7 +24998,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "St James Street Station",
           "variants": 1,
           "tripCount": 2,
           "stops": 34,
@@ -25127,7 +25127,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Goodmayes Lane",
           "variants": 1,
           "tripCount": 4,
           "stops": 37,
@@ -25148,7 +25148,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "St Thomas of Canterbury Church",
           "variants": 1,
           "tripCount": 4,
           "stops": 36,
@@ -25177,7 +25177,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Broom Road / Teddington School",
           "variants": 1,
           "tripCount": 4,
           "stops": 32,
@@ -25198,7 +25198,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hounslow Bus Station",
           "variants": 1,
           "tripCount": 6,
           "stops": 38,
@@ -25506,7 +25506,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Burntwood School",
           "variants": 1,
           "tripCount": 10,
           "stops": 36,
@@ -25527,7 +25527,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Norwood Bus Garage",
           "variants": 1,
           "tripCount": 10,
           "stops": 37,
@@ -25606,7 +25606,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Highgrove Pool & Fitness Centre",
           "variants": 1,
           "tripCount": 2,
           "stops": 57,
@@ -25627,7 +25627,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Conway Drive",
           "variants": 1,
           "tripCount": 2,
           "stops": 55,
@@ -25656,7 +25656,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Swakeleys Drive",
           "variants": 1,
           "tripCount": 4,
           "stops": 29,
@@ -25677,7 +25677,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Balmoral Drive",
           "variants": 1,
           "tripCount": 6,
           "stops": 32,
@@ -25706,7 +25706,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Swakeleys Drive",
           "variants": 1,
           "tripCount": 4,
           "stops": 35,
@@ -25727,7 +25727,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Conway Drive",
           "variants": 1,
           "tripCount": 4,
           "stops": 36,
@@ -26577,7 +26577,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Selkirk Road",
           "variants": 1,
           "tripCount": 2,
           "stops": 45,
@@ -26656,7 +26656,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Heathrow Central Bus Station",
           "variants": 1,
           "tripCount": 163,
           "stops": 20,
@@ -26677,7 +26677,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Belmont Road",
           "variants": 1,
           "tripCount": 158,
           "stops": 20,
@@ -27035,7 +27035,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Wingfield School",
           "variants": 1,
           "tripCount": 163,
           "stops": 47,
@@ -27056,7 +27056,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Bexleyheath Bus Garage",
           "variants": 1,
           "tripCount": 163,
           "stops": 43,
@@ -27235,7 +27235,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Warwick Road Tesco",
           "variants": 1,
           "tripCount": 264,
           "stops": 23,
@@ -27256,7 +27256,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Clapham Junction Station / The Falcon",
           "variants": 1,
           "tripCount": 262,
           "stops": 26,
@@ -27285,7 +27285,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Victoria Station",
           "variants": 1,
           "tripCount": 702,
           "stops": 49,
@@ -27306,7 +27306,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Canada Water Bus Station",
           "variants": 1,
           "tripCount": 700,
           "stops": 47,
@@ -27385,7 +27385,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Leamouth / Orchard Place",
           "variants": 1,
           "tripCount": 197,
           "stops": 33,
@@ -27406,7 +27406,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Bonner Road",
           "variants": 1,
           "tripCount": 196,
           "stops": 38,
@@ -27485,7 +27485,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Mile End",
           "variants": 1,
           "tripCount": 250,
           "stops": 33,
@@ -27556,7 +27556,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Stratford  Bus Station",
+          "headsign": "Stratford Bus Station",
           "variants": 1,
           "tripCount": 199,
           "stops": 24,
@@ -27635,7 +27635,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Earls Court Road",
           "variants": 1,
           "tripCount": 163,
           "stops": 9,
@@ -27656,7 +27656,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Richmond Station",
           "variants": 1,
           "tripCount": 177,
           "stops": 9,
@@ -27685,7 +27685,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Haven Green / Ealing Broadway",
           "variants": 1,
           "tripCount": 349,
           "stops": 14,
@@ -27706,7 +27706,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Clifton Road (UB6)",
           "variants": 1,
           "tripCount": 349,
           "stops": 14,
@@ -27735,7 +27735,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Clifton Road (UB6)",
           "variants": 1,
           "tripCount": 491,
           "stops": 32,
@@ -27885,7 +27885,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Bulls Bridge Tesco",
           "variants": 1,
           "tripCount": 235,
           "stops": 36,
@@ -27906,7 +27906,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Greenford",
           "variants": 1,
           "tripCount": 236,
           "stops": 39,
@@ -27935,7 +27935,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Ealing Broadway Station / Haven Green",
           "variants": 1,
           "tripCount": 208,
           "stops": 38,
@@ -27956,7 +27956,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Ruislip",
           "variants": 1,
           "tripCount": 203,
           "stops": 38,
@@ -27985,7 +27985,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Ealing Broadway Station / Haven Green",
           "variants": 1,
           "tripCount": 348,
           "stops": 40,
@@ -28006,7 +28006,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Bell Corner / Hounslow House",
           "variants": 1,
           "tripCount": 349,
           "stops": 40,
@@ -28035,7 +28035,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Haven Green / Ealing Broadway",
           "variants": 1,
           "tripCount": 226,
           "stops": 28,
@@ -28056,7 +28056,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Welbeck Avenue",
           "variants": 1,
           "tripCount": 222,
           "stops": 28,
@@ -28085,7 +28085,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Haven Green / Ealing Broadway",
           "variants": 1,
           "tripCount": 178,
           "stops": 33,
@@ -28106,7 +28106,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Islip Manor Road",
           "variants": 1,
           "tripCount": 179,
           "stops": 36,
@@ -28285,7 +28285,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Dagenham Dock Terminus",
           "variants": 1,
           "tripCount": 270,
           "stops": 34,
@@ -28306,7 +28306,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Becontree Heath Leisure Centre",
           "variants": 1,
           "tripCount": 276,
           "stops": 34,
@@ -28335,7 +28335,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Northgate Road",
           "variants": 1,
           "tripCount": 322,
           "stops": 37,
@@ -28356,7 +28356,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Chadwell Heath Lane /Barley Ln",
           "variants": 1,
           "tripCount": 323,
           "stops": 32,
@@ -28435,7 +28435,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Golders Green Station",
           "variants": 1,
           "tripCount": 219,
           "stops": 39,
@@ -28464,7 +28464,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Heathrow Terminal 2",
           "variants": 1,
           "tripCount": 28,
           "stops": 10,
@@ -28535,7 +28535,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Heathrow Terminal 2",
           "variants": 1,
           "tripCount": 26,
           "stops": 9,
@@ -28606,7 +28606,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Heathrow Terminal 2",
           "variants": 1,
           "tripCount": 37,
           "stops": 8,
@@ -28677,7 +28677,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Holiday Inn / Staybridge Suites",
           "variants": 1,
           "tripCount": 10,
           "stops": 5,
@@ -28748,7 +28748,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Premier Inn T2 / T3 Bath Road",
           "variants": 1,
           "tripCount": 9,
           "stops": 4,
@@ -28798,7 +28798,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Radisson BLU Hotel & Conference Centre",
           "variants": 1,
           "tripCount": 10,
           "stops": 5,
@@ -28848,7 +28848,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Heathrow Terminal 2",
           "variants": 1,
           "tripCount": 39,
           "stops": 5,
@@ -28969,7 +28969,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Heathrow Terminal 5",
           "variants": 1,
           "tripCount": 20,
           "stops": 11,
@@ -29040,7 +29040,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Heathrow Terminal 5",
           "variants": 1,
           "tripCount": 24,
           "stops": 6,
@@ -29111,7 +29111,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Heathrow Terminal 5",
           "variants": 1,
           "tripCount": 37,
           "stops": 6,
@@ -29182,7 +29182,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Heathrow Terminal 5",
           "variants": 1,
           "tripCount": 40,
           "stops": 4,
@@ -29253,7 +29253,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Heathrow Terminal 5",
           "variants": 1,
           "tripCount": 39,
           "stops": 3,
@@ -29324,7 +29324,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "St Mark's Hospital",
           "variants": 1,
           "tripCount": 269,
           "stops": 47,
@@ -29353,7 +29353,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "St Mark's Hospital",
           "variants": 1,
           "tripCount": 267,
           "stops": 43,
@@ -29432,7 +29432,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "South Harrow Bus Station",
           "variants": 1,
           "tripCount": 393,
           "stops": 42,
@@ -29503,7 +29503,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "St Vincent's Nursing Home",
           "variants": 1,
           "tripCount": 839,
           "stops": 40,
@@ -29582,7 +29582,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Wembley Central Station",
           "variants": 1,
           "tripCount": 179,
           "stops": 22,
@@ -29603,7 +29603,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Harrow Bus Station",
           "variants": 1,
           "tripCount": 180,
           "stops": 25,
@@ -29690,7 +29690,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Twickenham Tesco",
           "variants": 1,
           "tripCount": 198,
           "stops": 23,
@@ -29711,7 +29711,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Civic Street",
           "variants": 1,
           "tripCount": 197,
           "stops": 22,
@@ -29790,7 +29790,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Hatton Cross Station",
           "variants": 1,
           "tripCount": 341,
           "stops": 37,
@@ -29811,7 +29811,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Churchfields Avenue",
           "variants": 1,
           "tripCount": 341,
           "stops": 39,
@@ -29840,7 +29840,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Hatton Cross Station",
           "variants": 1,
           "tripCount": 204,
           "stops": 24,
@@ -29861,7 +29861,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Central Parade (TW14)",
           "variants": 1,
           "tripCount": 210,
           "stops": 20,
@@ -30090,7 +30090,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Hammersmith Bus Station",
           "variants": 1,
           "tripCount": 330,
           "stops": 39,
@@ -30111,7 +30111,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hounslow West Station",
           "variants": 1,
           "tripCount": 332,
           "stops": 33,
@@ -30140,7 +30140,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Wood End Green Road",
           "variants": 1,
           "tripCount": 520,
           "stops": 42,
@@ -30161,7 +30161,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hounslow Bus Station",
           "variants": 1,
           "tripCount": 523,
           "stops": 42,
@@ -30184,13 +30184,13 @@
       "rank": 1
     },
     {
-      "line": "Harry_Potter_Studios_Tour_Victoria_to_Studios",
+      "line": "Studio Tour",
       "mode": "bus",
       "color": "#0059a9",
       "dirs": [
         {
           "dir": "0",
-          "headsign": "198",
+          "headsign": "Studios",
           "variants": 1,
           "tripCount": 13,
           "stops": 4,
@@ -30211,7 +30211,7 @@
         },
         {
           "dir": "1",
-          "headsign": "198",
+          "headsign": "Green Line Coach Station",
           "variants": 1,
           "tripCount": 13,
           "stops": 4,
@@ -30240,7 +30240,7 @@
       "dirs": [
         {
           "dir": "HereEast The Yard",
-          "headsign": "HereEast  The Yard",
+          "headsign": "HereEast The Yard",
           "variants": 1,
           "tripCount": 269,
           "stops": 4,
@@ -30290,7 +30290,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Heathrow Terminal 5",
           "variants": 1,
           "tripCount": 26,
           "stops": 7,
@@ -30311,7 +30311,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Heathrow Terminal 2",
           "variants": 1,
           "tripCount": 27,
           "stops": 7,
@@ -30340,7 +30340,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Cromwell Road Bus Station",
           "variants": 1,
           "tripCount": 450,
           "stops": 38,
@@ -30361,7 +30361,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "New Malden Station",
           "variants": 1,
           "tripCount": 460,
           "stops": 37,
@@ -30390,7 +30390,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Hook Parade",
           "variants": 1,
           "tripCount": 438,
           "stops": 35,
@@ -30411,7 +30411,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Kingston Hospital",
           "variants": 1,
           "tripCount": 434,
           "stops": 40,
@@ -30490,7 +30490,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Ripon Gardens",
           "variants": 1,
           "tripCount": 66,
           "stops": 35,
@@ -30540,7 +30540,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Morden",
           "variants": 1,
           "tripCount": 40,
           "stops": 45,
@@ -30561,7 +30561,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Beaufort Road",
           "variants": 1,
           "tripCount": 40,
           "stops": 49,
@@ -30727,7 +30727,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Brixton Station",
           "variants": 1,
           "tripCount": 262,
           "stops": 39,
@@ -30748,7 +30748,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Lewisham Station",
           "variants": 1,
           "tripCount": 267,
           "stops": 40,
@@ -30777,7 +30777,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Patmore Estate / Drury House",
           "variants": 1,
           "tripCount": 250,
           "stops": 40,
@@ -30798,7 +30798,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Elephant & Castle / Newington Causeway",
           "variants": 1,
           "tripCount": 257,
           "stops": 38,
@@ -30827,7 +30827,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Brockley Rise / Chandos",
           "variants": 1,
           "tripCount": 284,
           "stops": 46,
@@ -30848,7 +30848,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Surrey Quays Shopping Centre",
           "variants": 1,
           "tripCount": 280,
           "stops": 49,
@@ -30877,7 +30877,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "New Cross Gate Sainsbury's",
           "variants": 1,
           "tripCount": 172,
           "stops": 49,
@@ -30898,7 +30898,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Streatham Station",
           "variants": 1,
           "tripCount": 176,
           "stops": 50,
@@ -30948,7 +30948,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Grovelands Road",
           "variants": 1,
           "tripCount": 151,
           "stops": 45,
@@ -31077,7 +31077,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Princess Royal University Hosp",
           "variants": 1,
           "tripCount": 112,
           "stops": 51,
@@ -31098,7 +31098,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Augustine Road",
           "variants": 1,
           "tripCount": 111,
           "stops": 50,
@@ -31377,7 +31377,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "High Street / Worlds End Lane",
           "variants": 1,
           "tripCount": 214,
           "stops": 37,
@@ -31398,7 +31398,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Sidcup / Queen Mary's Hospital",
           "variants": 1,
           "tripCount": 213,
           "stops": 37,
@@ -31527,7 +31527,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Richmond / Manor Road",
           "variants": 1,
           "tripCount": 256,
           "stops": 46,
@@ -31548,7 +31548,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Nurserylands Shopping Centre",
           "variants": 1,
           "tripCount": 251,
           "stops": 32,
@@ -31827,7 +31827,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Sevenoaks Road  Orpington War Memorial",
+          "headsign": "Sevenoaks Road Orpington War Memorial",
           "variants": 1,
           "tripCount": 136,
           "stops": 50,
@@ -31856,7 +31856,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Sutton / Marshalls Road",
           "variants": 1,
           "tripCount": 148,
           "stops": 47,
@@ -31956,7 +31956,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Stratford City Bus Station",
           "variants": 1,
           "tripCount": 19,
           "stops": 14,
@@ -31977,7 +31977,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Royal Free Hospital",
           "variants": 1,
           "tripCount": 18,
           "stops": 12,
@@ -32006,7 +32006,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Walthamstow Bus Station",
           "variants": 1,
           "tripCount": 638,
           "stops": 13,
@@ -32027,7 +32027,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "North Finchley Bus Station",
           "variants": 1,
           "tripCount": 634,
           "stops": 13,
@@ -32206,7 +32206,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Park Street",
           "variants": 1,
           "tripCount": 356,
           "stops": 11,
@@ -32227,7 +32227,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Bromley North Station",
           "variants": 1,
           "tripCount": 353,
           "stops": 11,
@@ -32306,7 +32306,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Heathrow Central Bus Station",
           "variants": 1,
           "tripCount": 237,
           "stops": 14,
@@ -32327,7 +32327,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "West Croydon Bus Station",
           "variants": 1,
           "tripCount": 235,
           "stops": 14,
@@ -32356,7 +32356,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "White City Bus Station",
           "variants": 1,
           "tripCount": 380,
           "stops": 22,
@@ -32377,7 +32377,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Belmont Road",
           "variants": 1,
           "tripCount": 377,
           "stops": 24,
@@ -32506,7 +32506,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Gayton Road / Abbey Wood Station",
           "variants": 1,
           "tripCount": 590,
           "stops": 15,
@@ -32527,7 +32527,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "North Greenwich Station",
           "variants": 1,
           "tripCount": 591,
           "stops": 15,
@@ -32656,7 +32656,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "West Drayton Station",
           "variants": 1,
           "tripCount": 302,
           "stops": 35,
@@ -32677,7 +32677,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Ruislip",
           "variants": 1,
           "tripCount": 303,
           "stops": 33,
@@ -32706,7 +32706,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Belmont Road",
           "variants": 1,
           "tripCount": 426,
           "stops": 28,
@@ -32727,7 +32727,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Brunel University",
           "variants": 1,
           "tripCount": 417,
           "stops": 27,
@@ -32756,7 +32756,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Heathrow Central Bus Station",
           "variants": 1,
           "tripCount": 232,
           "stops": 38,
@@ -32777,7 +32777,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Belmont Road",
           "variants": 1,
           "tripCount": 230,
           "stops": 37,
@@ -32806,7 +32806,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Belmont Road",
           "variants": 1,
           "tripCount": 479,
           "stops": 37,
@@ -32827,7 +32827,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Prologis Park",
           "variants": 1,
           "tripCount": 475,
           "stops": 39,
@@ -32856,7 +32856,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Blyth Road Hayes",
           "variants": 1,
           "tripCount": 220,
           "stops": 41,
@@ -32877,7 +32877,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "York Road (UB8)",
           "variants": 1,
           "tripCount": 220,
           "stops": 38,
@@ -33106,7 +33106,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Ferry Lane Primary School",
           "variants": 1,
           "tripCount": 816,
           "stops": 40,
@@ -33127,7 +33127,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Mitchell Road",
           "variants": 1,
           "tripCount": 812,
           "stops": 37,
@@ -33156,7 +33156,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Harringay Sainsbury's",
           "variants": 1,
           "tripCount": 208,
           "stops": 26,
@@ -33177,7 +33177,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Archway Station",
           "variants": 1,
           "tripCount": 204,
           "stops": 27,
@@ -33206,7 +33206,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Edmonton Green Bus Station",
           "variants": 1,
           "tripCount": 370,
           "stops": 18,
@@ -33306,7 +33306,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Picketts Lock Centre",
           "variants": 1,
           "tripCount": 476,
           "stops": 37,
@@ -33406,7 +33406,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Walthamstow Bus Station",
           "variants": 1,
           "tripCount": 329,
           "stops": 18,
@@ -33427,7 +33427,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Chingford Hall Estate",
           "variants": 1,
           "tripCount": 336,
           "stops": 20,
@@ -33456,7 +33456,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Cross Road (IG8)",
           "variants": 1,
           "tripCount": 188,
           "stops": 58,
@@ -33477,7 +33477,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Rensburg Road",
           "variants": 1,
           "tripCount": 192,
           "stops": 56,
@@ -33556,7 +33556,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Loughton Station",
           "variants": 1,
           "tripCount": 188,
           "stops": 38,
@@ -33577,7 +33577,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Whipps Cross Bus Stand",
           "variants": 1,
           "tripCount": 188,
           "stops": 39,
@@ -33656,7 +33656,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Leytonstone Station / Grove Green Road",
           "variants": 1,
           "tripCount": 220,
           "stops": 37,
@@ -33677,7 +33677,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Chingford Mount",
           "variants": 1,
           "tripCount": 217,
           "stops": 37,
@@ -33706,7 +33706,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Hainault Street",
           "variants": 1,
           "tripCount": 216,
           "stops": 55,
@@ -33727,7 +33727,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Argall Avenue Industrial Estate",
           "variants": 1,
           "tripCount": 220,
           "stops": 53,
@@ -33856,7 +33856,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Church Street Tram Stop",
           "variants": 1,
           "tripCount": 89,
           "stops": 10,
@@ -33877,7 +33877,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Elmers End Tram Stop",
           "variants": 1,
           "tripCount": 88,
           "stops": 12,
@@ -33907,7 +33907,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Wimbledon Tram Stop",
           "variants": 1,
           "tripCount": 264,
           "stops": 27,
@@ -33928,7 +33928,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Beckenham Junction Tram Stop",
           "variants": 1,
           "tripCount": 271,
           "stops": 29,
@@ -33958,7 +33958,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Wimbledon Tram Stop",
           "variants": 1,
           "tripCount": 6,
           "stops": 25,
@@ -33979,7 +33979,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "New Addington Tram Stop",
           "variants": 3,
           "tripCount": 355,
           "stops": 18,
@@ -34000,7 +34000,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "New Addington Tram Stop",
           "variants": 3,
           "tripCount": 351,
           "stops": 14,
@@ -34021,7 +34021,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "New Addington Tram Stop",
           "variants": 3,
           "tripCount": 29,
           "stops": 18,
@@ -34051,7 +34051,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Wimbledon Tram Stop",
           "variants": 1,
           "tripCount": 146,
           "stops": 23,
@@ -34072,7 +34072,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Elmers End Tram Stop",
           "variants": 1,
           "tripCount": 154,
           "stops": 25,
@@ -34102,7 +34102,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Harrow & Wealdstone",
           "variants": 1,
           "tripCount": 215,
           "stops": 25,
@@ -34123,7 +34123,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Elephant & Castle",
           "variants": 1,
           "tripCount": 212,
           "stops": 25,
@@ -34152,7 +34152,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Royal Docks",
           "variants": 1,
           "tripCount": 508,
           "stops": 2,
@@ -34173,7 +34173,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Greenwich Peninsula",
           "variants": 1,
           "tripCount": 508,
           "stops": 2,
@@ -34202,7 +34202,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Epping",
           "variants": 6,
           "tripCount": 776,
           "stops": 37,
@@ -34223,7 +34223,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Epping",
           "variants": 6,
           "tripCount": 766,
           "stops": 31,
@@ -34244,7 +34244,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Epping",
           "variants": 6,
           "tripCount": 416,
           "stops": 5,
@@ -34265,7 +34265,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Epping",
           "variants": 6,
           "tripCount": 152,
           "stops": 36,
@@ -34286,7 +34286,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Epping",
           "variants": 6,
           "tripCount": 96,
           "stops": 32,
@@ -34307,7 +34307,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Epping",
           "variants": 6,
           "tripCount": 4,
           "stops": 35,
@@ -34328,7 +34328,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "West Ruislip",
           "variants": 6,
           "tripCount": 798,
           "stops": 37,
@@ -34349,7 +34349,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "West Ruislip",
           "variants": 6,
           "tripCount": 700,
           "stops": 31,
@@ -34370,7 +34370,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "West Ruislip",
           "variants": 6,
           "tripCount": 158,
           "stops": 36,
@@ -34391,7 +34391,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "West Ruislip",
           "variants": 6,
           "tripCount": 144,
           "stops": 32,
@@ -34412,7 +34412,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "West Ruislip",
           "variants": 6,
           "tripCount": 6,
           "stops": 35,
@@ -34433,7 +34433,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "West Ruislip",
           "variants": 6,
           "tripCount": 2,
           "stops": 31,
@@ -34462,7 +34462,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Edgware Road (Circle Line)",
           "variants": 4,
           "tripCount": 1292,
           "stops": 37,
@@ -34483,7 +34483,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Edgware Road (Circle Line)",
           "variants": 4,
           "tripCount": 18,
           "stops": 29,
@@ -34504,7 +34504,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Edgware Road (Circle Line)",
           "variants": 4,
           "tripCount": 4,
           "stops": 33,
@@ -34525,7 +34525,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Edgware Road (Circle Line)",
           "variants": 4,
           "tripCount": 3,
           "stops": 8,
@@ -34546,7 +34546,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Aldgate",
           "variants": 4,
           "tripCount": 1265,
           "stops": 37,
@@ -34567,7 +34567,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Aldgate",
           "variants": 4,
           "tripCount": 16,
           "stops": 16,
@@ -34588,7 +34588,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Aldgate",
           "variants": 4,
           "tripCount": 12,
           "stops": 38,
@@ -34609,7 +34609,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Aldgate",
           "variants": 4,
           "tripCount": 12,
           "stops": 28,
@@ -34638,7 +34638,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Upminster",
           "variants": 12,
           "tripCount": 1477,
           "stops": 42,
@@ -34659,7 +34659,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Upminster",
           "variants": 12,
           "tripCount": 1384,
           "stops": 14,
@@ -34680,7 +34680,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Upminster",
           "variants": 12,
           "tripCount": 1257,
           "stops": 43,
@@ -34701,7 +34701,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Upminster",
           "variants": 12,
           "tripCount": 748,
           "stops": 22,
@@ -34722,7 +34722,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Upminster",
           "variants": 12,
           "tripCount": 369,
           "stops": 41,
@@ -34743,7 +34743,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Upminster",
           "variants": 12,
           "tripCount": 134,
           "stops": 15,
@@ -34764,7 +34764,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Upminster",
           "variants": 12,
           "tripCount": 70,
           "stops": 23,
@@ -34785,7 +34785,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Upminster",
           "variants": 12,
           "tripCount": 40,
           "stops": 11,
@@ -34806,7 +34806,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Upminster",
           "variants": 12,
           "tripCount": 30,
           "stops": 24,
@@ -34827,7 +34827,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Upminster",
           "variants": 12,
           "tripCount": 6,
           "stops": 16,
@@ -34848,7 +34848,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Upminster",
           "variants": 12,
           "tripCount": 4,
           "stops": 34,
@@ -34869,7 +34869,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Upminster",
           "variants": 12,
           "tripCount": 3,
           "stops": 7,
@@ -34890,7 +34890,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Ealing Broadway",
           "variants": 12,
           "tripCount": 1506,
           "stops": 42,
@@ -34911,7 +34911,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Ealing Broadway",
           "variants": 12,
           "tripCount": 1381,
           "stops": 14,
@@ -34932,7 +34932,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Ealing Broadway",
           "variants": 12,
           "tripCount": 1259,
           "stops": 43,
@@ -34953,7 +34953,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Ealing Broadway",
           "variants": 12,
           "tripCount": 701,
           "stops": 22,
@@ -34974,7 +34974,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Ealing Broadway",
           "variants": 12,
           "tripCount": 394,
           "stops": 41,
@@ -34995,7 +34995,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Ealing Broadway",
           "variants": 12,
           "tripCount": 314,
           "stops": 3,
@@ -35016,7 +35016,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Ealing Broadway",
           "variants": 12,
           "tripCount": 137,
           "stops": 24,
@@ -35037,7 +35037,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Ealing Broadway",
           "variants": 12,
           "tripCount": 128,
           "stops": 15,
@@ -35058,7 +35058,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Ealing Broadway",
           "variants": 12,
           "tripCount": 49,
           "stops": 23,
@@ -35079,7 +35079,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Ealing Broadway",
           "variants": 12,
           "tripCount": 27,
           "stops": 11,
@@ -35100,7 +35100,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Ealing Broadway",
           "variants": 12,
           "tripCount": 26,
           "stops": 16,
@@ -35121,7 +35121,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Ealing Broadway",
           "variants": 12,
           "tripCount": 6,
           "stops": 34,
@@ -35150,7 +35150,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Woolwich Arsenal",
           "variants": 8,
           "tripCount": 764,
           "stops": 12,
@@ -35171,7 +35171,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Woolwich Arsenal",
           "variants": 8,
           "tripCount": 592,
           "stops": 15,
@@ -35192,7 +35192,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Woolwich Arsenal",
           "variants": 8,
           "tripCount": 491,
           "stops": 9,
@@ -35213,7 +35213,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Woolwich Arsenal",
           "variants": 8,
           "tripCount": 341,
           "stops": 16,
@@ -35234,7 +35234,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Woolwich Arsenal",
           "variants": 8,
           "tripCount": 335,
           "stops": 13,
@@ -35255,7 +35255,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Woolwich Arsenal",
           "variants": 8,
           "tripCount": 221,
           "stops": 9,
@@ -35276,7 +35276,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Woolwich Arsenal",
           "variants": 8,
           "tripCount": 3,
           "stops": 6,
@@ -35297,7 +35297,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Woolwich Arsenal",
           "variants": 8,
           "tripCount": 2,
           "stops": 6,
@@ -35318,7 +35318,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Bank",
           "variants": 5,
           "tripCount": 756,
           "stops": 12,
@@ -35339,7 +35339,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Bank",
           "variants": 5,
           "tripCount": 581,
           "stops": 16,
@@ -35360,7 +35360,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Bank",
           "variants": 5,
           "tripCount": 485,
           "stops": 9,
@@ -35381,7 +35381,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Bank",
           "variants": 5,
           "tripCount": 337,
           "stops": 16,
@@ -35402,7 +35402,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Bank",
           "variants": 5,
           "tripCount": 332,
           "stops": 13,
@@ -35431,7 +35431,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Abbey Wood &harr;  Heathrow Terminal 4 ",
+          "headsign": "Reading",
           "variants": 9,
           "tripCount": 1,
           "stops": 27,
@@ -35452,7 +35452,7 @@
         },
         {
           "dir": "0",
-          "headsign": "Abbey Wood &harr;  Heathrow Terminal 4 ",
+          "headsign": "Reading",
           "variants": 9,
           "tripCount": 1,
           "stops": 27,
@@ -35473,7 +35473,7 @@
         },
         {
           "dir": "0",
-          "headsign": "Abbey Wood &harr;  Heathrow Terminal 4 ",
+          "headsign": "Reading",
           "variants": 9,
           "tripCount": 1,
           "stops": 25,
@@ -35494,7 +35494,7 @@
         },
         {
           "dir": "0",
-          "headsign": "Abbey Wood &harr;  Heathrow Terminal 4 ",
+          "headsign": "Reading",
           "variants": 9,
           "tripCount": 1,
           "stops": 18,
@@ -35515,7 +35515,7 @@
         },
         {
           "dir": "0",
-          "headsign": "Abbey Wood &harr;  Heathrow Terminal 4 ",
+          "headsign": "Reading",
           "variants": 9,
           "tripCount": 1,
           "stops": 18,
@@ -35536,7 +35536,7 @@
         },
         {
           "dir": "0",
-          "headsign": "Abbey Wood &harr;  Heathrow Terminal 4 ",
+          "headsign": "Reading",
           "variants": 9,
           "tripCount": 1,
           "stops": 16,
@@ -35557,7 +35557,7 @@
         },
         {
           "dir": "0",
-          "headsign": "Abbey Wood &harr;  Heathrow Terminal 4 ",
+          "headsign": "Reading",
           "variants": 9,
           "tripCount": 1,
           "stops": 14,
@@ -35578,7 +35578,7 @@
         },
         {
           "dir": "0",
-          "headsign": "Abbey Wood &harr;  Heathrow Terminal 4 ",
+          "headsign": "Reading",
           "variants": 9,
           "tripCount": 1,
           "stops": 9,
@@ -35599,7 +35599,7 @@
         },
         {
           "dir": "0",
-          "headsign": "Abbey Wood &harr;  Heathrow Terminal 4 ",
+          "headsign": "Reading",
           "variants": 9,
           "tripCount": 1,
           "stops": 9,
@@ -35620,7 +35620,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Heathrow Terminal 4  &harr;  London Paddington ",
+          "headsign": "Abbey Wood",
           "variants": 9,
           "tripCount": 1,
           "stops": 27,
@@ -35641,7 +35641,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Heathrow Terminal 4  &harr;  London Paddington ",
+          "headsign": "Abbey Wood",
           "variants": 9,
           "tripCount": 1,
           "stops": 27,
@@ -35662,7 +35662,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Heathrow Terminal 4  &harr;  London Paddington ",
+          "headsign": "Abbey Wood",
           "variants": 9,
           "tripCount": 1,
           "stops": 25,
@@ -35683,7 +35683,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Heathrow Terminal 4  &harr;  London Paddington ",
+          "headsign": "Abbey Wood",
           "variants": 9,
           "tripCount": 1,
           "stops": 18,
@@ -35704,7 +35704,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Heathrow Terminal 4  &harr;  London Paddington ",
+          "headsign": "Abbey Wood",
           "variants": 9,
           "tripCount": 1,
           "stops": 18,
@@ -35725,7 +35725,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Heathrow Terminal 4  &harr;  London Paddington ",
+          "headsign": "Abbey Wood",
           "variants": 9,
           "tripCount": 1,
           "stops": 16,
@@ -35746,7 +35746,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Heathrow Terminal 4  &harr;  London Paddington ",
+          "headsign": "Abbey Wood",
           "variants": 9,
           "tripCount": 1,
           "stops": 14,
@@ -35767,7 +35767,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Heathrow Terminal 4  &harr;  London Paddington ",
+          "headsign": "Abbey Wood",
           "variants": 9,
           "tripCount": 1,
           "stops": 9,
@@ -35788,7 +35788,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Heathrow Terminal 4  &harr;  London Paddington ",
+          "headsign": "Abbey Wood",
           "variants": 9,
           "tripCount": 1,
           "stops": 9,
@@ -35817,7 +35817,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Upminster",
           "variants": 1,
           "tripCount": 34,
           "stops": 37,
@@ -35838,7 +35838,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hammersmith (H&C Line)",
           "variants": 1,
           "tripCount": 42,
           "stops": 37,
@@ -35867,7 +35867,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Stratford",
           "variants": 2,
           "tripCount": 1075,
           "stops": 27,
@@ -35888,7 +35888,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Stratford",
           "variants": 2,
           "tripCount": 46,
           "stops": 24,
@@ -35909,7 +35909,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Stanmore",
           "variants": 1,
           "tripCount": 1111,
           "stops": 27,
@@ -35938,7 +35938,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Romford  &harr;  Upminster ",
+          "headsign": "Upminster",
           "variants": 1,
           "tripCount": 1,
           "stops": 3,
@@ -35959,7 +35959,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Upminster  &harr;  Romford ",
+          "headsign": "Romford",
           "variants": 1,
           "tripCount": 1,
           "stops": 3,
@@ -35988,7 +35988,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "London Euston  &harr;  Watford Junction ",
+          "headsign": "Watford Junction",
           "variants": 1,
           "tripCount": 1,
           "stops": 19,
@@ -36009,7 +36009,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Watford Junction  &harr;  London Euston ",
+          "headsign": "London Euston",
           "variants": 1,
           "tripCount": 1,
           "stops": 19,
@@ -36038,7 +36038,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Aldgate",
           "variants": 5,
           "tripCount": 1362,
           "stops": 22,
@@ -36059,7 +36059,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Aldgate",
           "variants": 5,
           "tripCount": 350,
           "stops": 23,
@@ -36080,7 +36080,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Aldgate",
           "variants": 5,
           "tripCount": 349,
           "stops": 24,
@@ -36101,7 +36101,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Aldgate",
           "variants": 5,
           "tripCount": 207,
           "stops": 21,
@@ -36122,7 +36122,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Aldgate",
           "variants": 5,
           "tripCount": 59,
           "stops": 21,
@@ -36143,7 +36143,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Chesham",
           "variants": 4,
           "tripCount": 1410,
           "stops": 22,
@@ -36164,7 +36164,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Chesham",
           "variants": 4,
           "tripCount": 384,
           "stops": 23,
@@ -36185,7 +36185,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Chesham",
           "variants": 4,
           "tripCount": 376,
           "stops": 23,
@@ -36206,7 +36206,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Chesham",
           "variants": 4,
           "tripCount": 198,
           "stops": 21,
@@ -36235,7 +36235,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Stratford (London)  &harr;  Richmond (London) ",
+          "headsign": "Clapham Junction",
           "variants": 2,
           "tripCount": 1,
           "stops": 23,
@@ -36256,7 +36256,7 @@
         },
         {
           "dir": "0",
-          "headsign": "Stratford (London)  &harr;  Richmond (London) ",
+          "headsign": "Clapham Junction",
           "variants": 2,
           "tripCount": 1,
           "stops": 23,
@@ -36277,7 +36277,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Clapham Junction  &harr;  Stratford (London) ",
+          "headsign": "Stratford (London)",
           "variants": 2,
           "tripCount": 1,
           "stops": 23,
@@ -36298,7 +36298,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Clapham Junction  &harr;  Stratford (London) ",
+          "headsign": "Stratford (London)",
           "variants": 2,
           "tripCount": 1,
           "stops": 23,
@@ -36327,7 +36327,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Edgware",
           "variants": 9,
           "tripCount": 773,
           "stops": 31,
@@ -36348,7 +36348,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Edgware",
           "variants": 9,
           "tripCount": 483,
           "stops": 32,
@@ -36369,7 +36369,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Edgware",
           "variants": 9,
           "tripCount": 453,
           "stops": 23,
@@ -36390,7 +36390,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Edgware",
           "variants": 9,
           "tripCount": 154,
           "stops": 22,
@@ -36411,7 +36411,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Edgware",
           "variants": 9,
           "tripCount": 126,
           "stops": 29,
@@ -36432,7 +36432,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Edgware",
           "variants": 9,
           "tripCount": 109,
           "stops": 32,
@@ -36453,7 +36453,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Edgware",
           "variants": 9,
           "tripCount": 104,
           "stops": 20,
@@ -36474,7 +36474,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Edgware",
           "variants": 9,
           "tripCount": 62,
           "stops": 31,
@@ -36495,7 +36495,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Edgware",
           "variants": 9,
           "tripCount": 17,
           "stops": 29,
@@ -36516,7 +36516,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Morden",
           "variants": 9,
           "tripCount": 675,
           "stops": 32,
@@ -36537,7 +36537,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Morden",
           "variants": 9,
           "tripCount": 587,
           "stops": 32,
@@ -36558,7 +36558,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Morden",
           "variants": 9,
           "tripCount": 483,
           "stops": 23,
@@ -36579,7 +36579,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Morden",
           "variants": 9,
           "tripCount": 130,
           "stops": 20,
@@ -36600,7 +36600,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Morden",
           "variants": 9,
           "tripCount": 123,
           "stops": 29,
@@ -36621,7 +36621,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Morden",
           "variants": 9,
           "tripCount": 96,
           "stops": 31,
@@ -36642,7 +36642,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Morden",
           "variants": 9,
           "tripCount": 88,
           "stops": 22,
@@ -36663,7 +36663,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Morden",
           "variants": 9,
           "tripCount": 81,
           "stops": 32,
@@ -36684,7 +36684,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Morden",
           "variants": 9,
           "tripCount": 11,
           "stops": 29,
@@ -36713,7 +36713,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Cockfosters",
           "variants": 4,
           "tripCount": 2025,
           "stops": 38,
@@ -36734,7 +36734,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Cockfosters",
           "variants": 4,
           "tripCount": 1796,
           "stops": 38,
@@ -36755,7 +36755,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Cockfosters",
           "variants": 4,
           "tripCount": 217,
           "stops": 42,
@@ -36776,7 +36776,7 @@
         },
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Cockfosters",
           "variants": 4,
           "tripCount": 10,
           "stops": 31,
@@ -36797,7 +36797,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Uxbridge",
           "variants": 3,
           "tripCount": 2023,
           "stops": 38,
@@ -36818,7 +36818,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Uxbridge",
           "variants": 3,
           "tripCount": 207,
           "stops": 42,
@@ -36839,7 +36839,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Uxbridge",
           "variants": 3,
           "tripCount": 12,
           "stops": 38,
@@ -36868,7 +36868,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Gospel Oak  &harr;  Barking Riverside",
+          "headsign": "Barking Riverside",
           "variants": 1,
           "tripCount": 1,
           "stops": 13,
@@ -36889,7 +36889,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Barking Riverside &harr;  Gospel Oak ",
+          "headsign": "Gospel Oak",
           "variants": 1,
           "tripCount": 1,
           "stops": 13,
@@ -36918,7 +36918,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Walthamstow Central",
           "variants": 1,
           "tripCount": 3810,
           "stops": 16,
@@ -36939,7 +36939,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Brixton",
           "variants": 1,
           "tripCount": 3808,
           "stops": 16,
@@ -36968,7 +36968,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Bank",
           "variants": 1,
           "tripCount": 265,
           "stops": 2,
@@ -36989,7 +36989,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Waterloo",
           "variants": 1,
           "tripCount": 266,
           "stops": 2,
@@ -37018,7 +37018,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "London Liverpool Street  &harr;  Chingford ",
+          "headsign": "Cheshunt",
           "variants": 3,
           "tripCount": 1,
           "stops": 17,
@@ -37039,7 +37039,7 @@
         },
         {
           "dir": "0",
-          "headsign": "London Liverpool Street  &harr;  Chingford ",
+          "headsign": "Cheshunt",
           "variants": 3,
           "tripCount": 1,
           "stops": 15,
@@ -37060,7 +37060,7 @@
         },
         {
           "dir": "0",
-          "headsign": "London Liverpool Street  &harr;  Chingford ",
+          "headsign": "Cheshunt",
           "variants": 3,
           "tripCount": 1,
           "stops": 11,
@@ -37081,7 +37081,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Cheshunt  &harr;  London Liverpool Street ",
+          "headsign": "London Liverpool Street",
           "variants": 3,
           "tripCount": 1,
           "stops": 17,
@@ -37102,7 +37102,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Cheshunt  &harr;  London Liverpool Street ",
+          "headsign": "London Liverpool Street",
           "variants": 3,
           "tripCount": 1,
           "stops": 15,
@@ -37123,7 +37123,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Cheshunt  &harr;  London Liverpool Street ",
+          "headsign": "London Liverpool Street",
           "variants": 3,
           "tripCount": 1,
           "stops": 11,
@@ -37152,7 +37152,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Highbury & Islington  &harr;  New Cross ELL ",
+          "headsign": "Clapham Junction",
           "variants": 4,
           "tripCount": 1,
           "stops": 21,
@@ -37173,7 +37173,7 @@
         },
         {
           "dir": "0",
-          "headsign": "Highbury & Islington  &harr;  New Cross ELL ",
+          "headsign": "Clapham Junction",
           "variants": 4,
           "tripCount": 1,
           "stops": 18,
@@ -37194,7 +37194,7 @@
         },
         {
           "dir": "0",
-          "headsign": "Highbury & Islington  &harr;  New Cross ELL ",
+          "headsign": "Clapham Junction",
           "variants": 4,
           "tripCount": 1,
           "stops": 18,
@@ -37215,7 +37215,7 @@
         },
         {
           "dir": "0",
-          "headsign": "Highbury & Islington  &harr;  New Cross ELL ",
+          "headsign": "Clapham Junction",
           "variants": 4,
           "tripCount": 1,
           "stops": 13,
@@ -37236,7 +37236,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Clapham Junction  &harr;  Highbury & Islington ",
+          "headsign": "Highbury & Islington",
           "variants": 4,
           "tripCount": 1,
           "stops": 21,
@@ -37257,7 +37257,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Clapham Junction  &harr;  Highbury & Islington ",
+          "headsign": "Highbury & Islington",
           "variants": 4,
           "tripCount": 1,
           "stops": 18,
@@ -37278,7 +37278,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Clapham Junction  &harr;  Highbury & Islington ",
+          "headsign": "Highbury & Islington",
           "variants": 4,
           "tripCount": 1,
           "stops": 18,
@@ -37299,7 +37299,7 @@
         },
         {
           "dir": "1",
-          "headsign": "Clapham Junction  &harr;  Highbury & Islington ",
+          "headsign": "Highbury & Islington",
           "variants": 4,
           "tripCount": 1,
           "stops": 13,
@@ -37328,7 +37328,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Titmuss Avenue",
           "variants": 1,
           "tripCount": 36,
           "stops": 91,
@@ -37349,7 +37349,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Tottenham Court Road Station",
           "variants": 1,
           "tripCount": 40,
           "stops": 84,
@@ -37428,7 +37428,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Bromley North Station",
           "variants": 1,
           "tripCount": 108,
           "stops": 88,
@@ -37449,7 +37449,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Margaret Street /Oxford Circus",
           "variants": 1,
           "tripCount": 108,
           "stops": 84,
@@ -37728,7 +37728,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Margaret Street /Oxford Circus",
           "variants": 1,
           "tripCount": 118,
           "stops": 93,
@@ -37749,7 +37749,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Romford Market",
           "variants": 1,
           "tripCount": 136,
           "stops": 90,
@@ -37828,7 +37828,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Clapham Junction Station",
           "variants": 1,
           "tripCount": 80,
           "stops": 52,
@@ -37849,7 +37849,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Finsbury Park Interchange",
           "variants": 1,
           "tripCount": 84,
           "stops": 55,
@@ -38028,7 +38028,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Great Titchfield Street / Oxford Circus Station",
           "variants": 1,
           "tripCount": 104,
           "stops": 59,
@@ -38049,7 +38049,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hainault Street",
           "variants": 1,
           "tripCount": 126,
           "stops": 59,
@@ -38078,7 +38078,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Chingford Station",
           "variants": 1,
           "tripCount": 44,
           "stops": 83,
@@ -38099,7 +38099,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Westminster Cathedral / Victoria Station",
           "variants": 1,
           "tripCount": 48,
           "stops": 86,
@@ -38128,7 +38128,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Hartland Road / Camden Market",
           "variants": 1,
           "tripCount": 40,
           "stops": 35,
@@ -38149,7 +38149,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Hammersmith Bus Station",
           "variants": 1,
           "tripCount": 36,
           "stops": 40,
@@ -38178,7 +38178,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Mapleton Crescent",
           "variants": 1,
           "tripCount": 32,
           "stops": 59,
@@ -38199,7 +38199,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Camden Town Station",
           "variants": 1,
           "tripCount": 32,
           "stops": 58,
@@ -38228,7 +38228,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Trafalgar Square",
           "variants": 1,
           "tripCount": 124,
           "stops": 71,
@@ -38249,7 +38249,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Little Park Gardens",
           "variants": 1,
           "tripCount": 116,
           "stops": 69,
@@ -38328,7 +38328,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Clapham Junction Station",
           "variants": 1,
           "tripCount": 32,
           "stops": 57,
@@ -38349,7 +38349,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Camden Town Station",
           "variants": 1,
           "tripCount": 36,
           "stops": 61,
@@ -38428,7 +38428,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Hammersmith Bus Station",
           "variants": 1,
           "tripCount": 36,
           "stops": 50,
@@ -38449,7 +38449,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Fulwell",
           "variants": 1,
           "tripCount": 36,
           "stops": 52,
@@ -38478,7 +38478,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Victoria Bus Station",
           "variants": 1,
           "tripCount": 68,
           "stops": 57,
@@ -38499,7 +38499,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Walthamstow Bus Station",
           "variants": 1,
           "tripCount": 74,
           "stops": 59,
@@ -38528,7 +38528,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Ealing Broadway Station / Haven Green",
           "variants": 1,
           "tripCount": 6,
           "stops": 16,
@@ -38557,7 +38557,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Tottenham Hale Bus Station",
           "variants": 1,
           "tripCount": 36,
           "stops": 57,
@@ -38657,7 +38657,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Horse Guards Parade",
           "variants": 1,
           "tripCount": 52,
           "stops": 59,
@@ -38678,7 +38678,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Griffin Road / Plumstead Station",
           "variants": 1,
           "tripCount": 52,
           "stops": 52,
@@ -38757,7 +38757,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "King's Cross Stn / York Way",
           "variants": 1,
           "tripCount": 56,
           "stops": 54,
@@ -38778,7 +38778,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Crystal Palace Parade / College Road",
           "variants": 1,
           "tripCount": 54,
           "stops": 55,
@@ -38957,7 +38957,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Walthamstow Bus Station",
           "variants": 1,
           "tripCount": 68,
           "stops": 56,
@@ -38978,7 +38978,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Great Titchfield Street / Oxford Circus Station",
           "variants": 1,
           "tripCount": 60,
           "stops": 60,
@@ -39107,7 +39107,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Dagnam Park Square",
           "variants": 1,
           "tripCount": 46,
           "stops": 73,
@@ -39207,7 +39207,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Erith Town Centre / Riverside",
           "variants": 1,
           "tripCount": 44,
           "stops": 104,
@@ -39228,7 +39228,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Charing Cross",
           "variants": 1,
           "tripCount": 40,
           "stops": 107,
@@ -39557,7 +39557,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Liverpool Street Station",
           "variants": 1,
           "tripCount": 32,
           "stops": 65,
@@ -39578,7 +39578,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Morden",
           "variants": 1,
           "tripCount": 40,
           "stops": 64,
@@ -39707,7 +39707,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Long Elmes Harrow Weald",
           "variants": 1,
           "tripCount": 52,
           "stops": 59,
@@ -39728,7 +39728,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Heathrow Central Bus Station",
           "variants": 1,
           "tripCount": 52,
           "stops": 52,
@@ -39957,7 +39957,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Bloomsbury Square",
           "variants": 1,
           "tripCount": 88,
           "stops": 88,
@@ -39978,7 +39978,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Belmont Road",
           "variants": 1,
           "tripCount": 110,
           "stops": 93,
@@ -40057,7 +40057,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Fairfield Halls",
           "variants": 1,
           "tripCount": 72,
           "stops": 46,
@@ -40078,7 +40078,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Brixton Station",
           "variants": 1,
           "tripCount": 72,
           "stops": 45,
@@ -40357,7 +40357,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "New Cross / Jerningham Road",
           "variants": 1,
           "tripCount": 40,
           "stops": 49,
@@ -40457,7 +40457,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Gayton Road / Abbey Wood Station",
           "variants": 1,
           "tripCount": 40,
           "stops": 39,
@@ -40478,7 +40478,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "North Greenwich Station",
           "variants": 1,
           "tripCount": 40,
           "stops": 37,
@@ -40507,7 +40507,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Canning Town",
           "variants": 1,
           "tripCount": 44,
           "stops": 59,
@@ -40528,7 +40528,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Trafalgar Square",
           "variants": 1,
           "tripCount": 52,
           "stops": 59,
